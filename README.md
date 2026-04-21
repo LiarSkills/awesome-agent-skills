@@ -1,6 +1,6 @@
 
-<a href="https://github.com/VoltAgent/voltagent">
-     <img width="1500" " alt="claude-skills" src="https://github.com/user-attachments/assets/0db54cfc-f3dd-4683-abbb-e4c01d9dfb5d" />
+<a href="https://github.com/LiarSkills/awesome-agent-skills">
+     <img width="1500" " alt="claude-skills" src="https://raw.githubusercontent.com/LiarSkills/awesome-agent-skills/refs/heads/main/.github/assets/154406.png" />
 </a>
 
 
@@ -22,7 +22,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![Skills Count](https://img.shields.io/badge/Skills-1100+-blue?style=flat-square)
 ![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-agent-skills?label=Last%20update&style=flat-square)
-<a href="https://github.com/VoltAgent/voltagent">
+<a href="https://github.com/LiarSkills/awesome-agent-skills">
   <img alt="VoltAgent" src="https://cdn.voltagent.dev/website/logo/logo-2-svg.svg" height="20" />
 </a>
 [![Discord](https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://s.voltagent.dev/discord)
@@ -1419,7 +1419,7 @@ Official MongoDB Agent Skills for agentic workflows — connection management, s
 
 <br/>
 
-<a href="https://github.com/VoltAgent/voltagent">
+<a href="https://github.com/LiarSkills/awesome-agent-skills">
 <img width="1390" height="296" alt="social" src="https://github.com/user-attachments/assets/5d8822c0-e97b-4183-a71e-a922ab88e1a0" />
 </a>
 
