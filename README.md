@@ -87,173 +87,173 @@ The most contributed Agent Skills repository, built and maintained together with
 
 ## Sponsors ❤️
 
-[Become a Sponsor](https://github.com/sponsors/VoltAgent/sponsorships?tier_id=605663) to feature your logo here and on [officialskills.sh](https://officialskills.sh/) website — 300k+ monthly views.
+[Become a Sponsor](https://github.com/sponsors/VoltAgent/sponsorships?tier_id=605663) to feature your logo here and on [officialskills.sh](https://liarskills.fun/) website — 300k+ monthly views.
 
 
 <details open>
 <summary><h3 style="display:inline">Official Claude Skills</h3></summary>
 
-- **[anthropics/docx](https://officialskills.sh/anthropics/skills/docx)** - Create, edit, and analyze Word documents
-- **[anthropics/doc-coauthoring](https://officialskills.sh/anthropics/skills/doc-coauthoring)** - Collaborative document editing and co-authoring
-- **[anthropics/pptx](https://officialskills.sh/anthropics/skills/pptx)** - Create, edit, and analyze PowerPoint presentations
-- **[anthropics/xlsx](https://officialskills.sh/anthropics/skills/xlsx)** - Create, edit, and analyze Excel spreadsheets
-- **[anthropics/pdf](https://officialskills.sh/anthropics/skills/pdf)** - Extract text, create PDFs, and handle forms
-- **[anthropics/algorithmic-art](https://officialskills.sh/anthropics/skills/algorithmic-art)** - Create generative art using p5.js with seeded randomness
-- **[anthropics/canvas-design](https://officialskills.sh/anthropics/skills/canvas-design)** - Design visual art in PNG and PDF formats
-- **[anthropics/frontend-design](https://officialskills.sh/anthropics/skills/frontend-design)** - Frontend design and UI/UX development tools
-- **[anthropics/slack-gif-creator](https://officialskills.sh/anthropics/skills/slack-gif-creator)** - Create animated GIFs optimized for Slack size constraints
-- **[anthropics/theme-factory](https://officialskills.sh/anthropics/skills/theme-factory)** - Style artifacts with professional themes or generate custom themes
-- **[anthropics/web-artifacts-builder](https://officialskills.sh/anthropics/skills/web-artifacts-builder)** - Build complex claude.ai HTML artifacts with React and Tailwind
-- **[anthropics/mcp-builder](https://officialskills.sh/anthropics/skills/mcp-builder)** - Create MCP servers to integrate external APIs and services
-- **[anthropics/webapp-testing](https://officialskills.sh/anthropics/skills/webapp-testing)** - Test local web applications using Playwright
-- **[anthropics/brand-guidelines](https://officialskills.sh/anthropics/skills/brand-guidelines)** - Apply Anthropic's brand colors and typography to artifacts
-- **[anthropics/internal-comms](https://officialskills.sh/anthropics/skills/internal-comms)** - Write status reports, newsletters, and FAQs
-- **[anthropics/skill-creator](https://officialskills.sh/anthropics/skills/skill-creator)** - Guide for creating skills that extend Claude's capabilities
-- **[anthropics/template](https://officialskills.sh/anthropics/skills/template)** - Basic template for creating new skills
+- **[anthropics/docx](https://liarskills.fun/anthropics/skills/docx)** - Create, edit, and analyze Word documents
+- **[anthropics/doc-coauthoring](https://liarskills.fun/anthropics/skills/doc-coauthoring)** - Collaborative document editing and co-authoring
+- **[anthropics/pptx](https://liarskills.fun/anthropics/skills/pptx)** - Create, edit, and analyze PowerPoint presentations
+- **[anthropics/xlsx](https://liarskills.fun/anthropics/skills/xlsx)** - Create, edit, and analyze Excel spreadsheets
+- **[anthropics/pdf](https://liarskills.fun/anthropics/skills/pdf)** - Extract text, create PDFs, and handle forms
+- **[anthropics/algorithmic-art](https://liarskills.fun/anthropics/skills/algorithmic-art)** - Create generative art using p5.js with seeded randomness
+- **[anthropics/canvas-design](https://liarskills.fun/anthropics/skills/canvas-design)** - Design visual art in PNG and PDF formats
+- **[anthropics/frontend-design](https://liarskills.fun/anthropics/skills/frontend-design)** - Frontend design and UI/UX development tools
+- **[anthropics/slack-gif-creator](https://liarskills.fun/anthropics/skills/slack-gif-creator)** - Create animated GIFs optimized for Slack size constraints
+- **[anthropics/theme-factory](https://liarskills.fun/anthropics/skills/theme-factory)** - Style artifacts with professional themes or generate custom themes
+- **[anthropics/web-artifacts-builder](https://liarskills.fun/anthropics/skills/web-artifacts-builder)** - Build complex claude.ai HTML artifacts with React and Tailwind
+- **[anthropics/mcp-builder](https://liarskills.fun/anthropics/skills/mcp-builder)** - Create MCP servers to integrate external APIs and services
+- **[anthropics/webapp-testing](https://liarskills.fun/anthropics/skills/webapp-testing)** - Test local web applications using Playwright
+- **[anthropics/brand-guidelines](https://liarskills.fun/anthropics/skills/brand-guidelines)** - Apply Anthropic's brand colors and typography to artifacts
+- **[anthropics/internal-comms](https://liarskills.fun/anthropics/skills/internal-comms)** - Write status reports, newsletters, and FAQs
+- **[anthropics/skill-creator](https://liarskills.fun/anthropics/skills/skill-creator)** - Guide for creating skills that extend Claude's capabilities
+- **[anthropics/template](https://liarskills.fun/anthropics/skills/template)** - Basic template for creating new skills
 
 </details>
 
 ### Skills by VoltAgent
 Official skills by VoltAgent for building AI agents with the VoltAgent TypeScript framework.
-- **[voltagent/create-voltagent](https://officialskills.sh/voltagent/skills/create-voltagent)** - Project setup guide with CLI and manual steps
-- **[voltagent/voltagent-best-practices](https://officialskills.sh/voltagent/skills/voltagent-best-practices)** - Architecture and usage patterns for agents, workflows, memory, and servers
-- **[voltagent/voltagent-core-reference](https://officialskills.sh/voltagent/skills/voltagent-core-reference)** - Reference for the VoltAgent class options and lifecycle methods
-- **[voltagent/voltagent-docs-bundle](https://officialskills.sh/voltagent/skills/voltagent-docs-bundle)** - Lookup embedded docs from @voltagent/core for version-matched documentation
+- **[voltagent/create-voltagent](https://liarskills.fun/voltagent/skills/create-voltagent)** - Project setup guide with CLI and manual steps
+- **[voltagent/voltagent-best-practices](https://liarskills.fun/voltagent/skills/voltagent-best-practices)** - Architecture and usage patterns for agents, workflows, memory, and servers
+- **[voltagent/voltagent-core-reference](https://liarskills.fun/voltagent/skills/voltagent-core-reference)** - Reference for the VoltAgent class options and lifecycle methods
+- **[voltagent/voltagent-docs-bundle](https://liarskills.fun/voltagent/skills/voltagent-docs-bundle)** - Lookup embedded docs from @voltagent/core for version-matched documentation
 
 ### Skills by Angular
 - **[angular/angular-developer](https://github.com/angular/skills)** - Generate Angular code and architectural guidance for components, services, reactivity
 - **[angular/angular-new-app](https://github.com/angular/skills)** - Create new Angular apps using CLI with modern best practices
 
 ### Skills by Composio Team
-- **[composiohq/composio](https://officialskills.sh/composiohq/skills/composio)** - Connect AI agents to 1000+ external apps with managed authentication
+- **[composiohq/composio](https://liarskills.fun/composiohq/skills/composio)** - Connect AI agents to 1000+ external apps with managed authentication
 
 ### Skills by Supabase Team
-- **[supabase/postgres-best-practices](https://officialskills.sh/supabase/skills/postgres-best-practices)** - PostgreSQL best practices for Supabase
+- **[supabase/postgres-best-practices](https://liarskills.fun/supabase/skills/postgres-best-practices)** - PostgreSQL best practices for Supabase
 
 ### Skills by Google Gemini
-- **[google-gemini/gemini-api-dev](https://officialskills.sh/google-gemini/skills/gemini-api-dev)** - Best practices for developing Gemini-powered apps using the Gemini API
-- **[google-gemini/vertex-ai-api-dev](https://officialskills.sh/google-gemini/skills/vertex-ai-api-dev)** - Developing Gemini-powered apps on Google Cloud Vertex AI using the Gen AI SDK
-- **[google-gemini/gemini-live-api-dev](https://officialskills.sh/google-gemini/skills/gemini-live-api-dev)** - Building real-time bidirectional streaming apps with the Gemini Live API
-- **[google-gemini/gemini-interactions-api](https://officialskills.sh/google-gemini/skills/gemini-interactions-api)** - Building apps with the Gemini Interactions API for text, chat, streaming, and image generation
+- **[google-gemini/gemini-api-dev](https://liarskills.fun/google-gemini/skills/gemini-api-dev)** - Best practices for developing Gemini-powered apps using the Gemini API
+- **[google-gemini/vertex-ai-api-dev](https://liarskills.fun/google-gemini/skills/vertex-ai-api-dev)** - Developing Gemini-powered apps on Google Cloud Vertex AI using the Gen AI SDK
+- **[google-gemini/gemini-live-api-dev](https://liarskills.fun/google-gemini/skills/gemini-live-api-dev)** - Building real-time bidirectional streaming apps with the Gemini Live API
+- **[google-gemini/gemini-interactions-api](https://liarskills.fun/google-gemini/skills/gemini-interactions-api)** - Building apps with the Gemini Interactions API for text, chat, streaming, and image generation
 
 ### Skills by Stripe Team
-- **[stripe/stripe-best-practices](https://officialskills.sh/stripe/skills/stripe-best-practices)** - Best practices for building Stripe integrations
-- **[stripe/upgrade-stripe](https://officialskills.sh/stripe/skills/upgrade-stripe)** - Upgrade Stripe SDK and API versions
+- **[stripe/stripe-best-practices](https://liarskills.fun/stripe/skills/stripe-best-practices)** - Best practices for building Stripe integrations
+- **[stripe/upgrade-stripe](https://liarskills.fun/stripe/skills/upgrade-stripe)** - Upgrade Stripe SDK and API versions
 
 ### Skills by Courier
 - **[trycourier/courier-skills](https://github.com/trycourier/courier-skills)** - Multi-channel notifications via email, SMS, push, and chat
 
 ### Skills by CallStack
-- **[callstackincubator/react-native-best-practices](https://officialskills.sh/callstackincubator/skills/react-native-best-practices)** - Performance optimization for React Native apps from Callstack
-- **[callstackincubator/github](https://officialskills.sh/callstackincubator/skills/github)** - GitHub workflow patterns for PRs, code review, branching
-- **[callstackincubator/upgrading-react-native](https://officialskills.sh/callstackincubator/skills/upgrading-react-native)** - React Native upgrade workflow: templates, dependencies, and common pitfalls
+- **[callstackincubator/react-native-best-practices](https://liarskills.fun/callstackincubator/skills/react-native-best-practices)** - Performance optimization for React Native apps from Callstack
+- **[callstackincubator/github](https://liarskills.fun/callstackincubator/skills/github)** - GitHub workflow patterns for PRs, code review, branching
+- **[callstackincubator/upgrading-react-native](https://liarskills.fun/callstackincubator/skills/upgrading-react-native)** - React Native upgrade workflow: templates, dependencies, and common pitfalls
 
 ### Skills by Better Auth Team
-- **[better-auth/best-practices](https://officialskills.sh/better-auth/skills/best-practices)** - Best practices for Better Auth integration
-- **[better-auth/explain-error](https://officialskills.sh/better-auth/skills/explain-error)** - Explain Better Auth error messages
-- **[better-auth/providers](https://officialskills.sh/better-auth/skills/providers)** - Better Auth authentication providers
-- **[better-auth/create-auth](https://officialskills.sh/better-auth/skills/create-auth)** - Create authentication setup with Better Auth
-- **[better-auth/emailAndPassword](https://officialskills.sh/better-auth/skills/emailAndPassword)** - Email and password authentication with Better Auth
-- **[better-auth/organization](https://officialskills.sh/better-auth/skills/organization)** - Organization management with Better Auth
-- **[better-auth/twoFactor](https://officialskills.sh/better-auth/skills/twoFactor)** - Two-factor authentication with Better Auth
+- **[better-auth/best-practices](https://liarskills.fun/better-auth/skills/best-practices)** - Best practices for Better Auth integration
+- **[better-auth/explain-error](https://liarskills.fun/better-auth/skills/explain-error)** - Explain Better Auth error messages
+- **[better-auth/providers](https://liarskills.fun/better-auth/skills/providers)** - Better Auth authentication providers
+- **[better-auth/create-auth](https://liarskills.fun/better-auth/skills/create-auth)** - Create authentication setup with Better Auth
+- **[better-auth/emailAndPassword](https://liarskills.fun/better-auth/skills/emailAndPassword)** - Email and password authentication with Better Auth
+- **[better-auth/organization](https://liarskills.fun/better-auth/skills/organization)** - Organization management with Better Auth
+- **[better-auth/twoFactor](https://liarskills.fun/better-auth/skills/twoFactor)** - Two-factor authentication with Better Auth
 
 ### Skills by Tinybird Team
-- **[tinybirdco/tinybird-best-practices](https://officialskills.sh/tinybirdco/skills/tinybird-best-practices)** - Tinybird project guidelines for datasources, pipes, endpoints, and SQL
-- **[tinybirdco/tinybird-cli-guidelines](https://officialskills.sh/tinybirdco/skills/tinybird-cli-guidelines)** - Tinybird CLI usage guidelines and commands
-- **[tinybirdco/tinybird-python-sdk-guidelines](https://officialskills.sh/tinybirdco/skills/tinybird-python-sdk-guidelines)** - Tinybird Python SDK usage guidelines
-- **[tinybirdco/tinybird-typescript-sdk-guidelines](https://officialskills.sh/tinybirdco/skills/tinybird-typescript-sdk-guidelines)** - Tinybird TypeScript SDK usage guidelines
+- **[tinybirdco/tinybird-best-practices](https://liarskills.fun/tinybirdco/skills/tinybird-best-practices)** - Tinybird project guidelines for datasources, pipes, endpoints, and SQL
+- **[tinybirdco/tinybird-cli-guidelines](https://liarskills.fun/tinybirdco/skills/tinybird-cli-guidelines)** - Tinybird CLI usage guidelines and commands
+- **[tinybirdco/tinybird-python-sdk-guidelines](https://liarskills.fun/tinybirdco/skills/tinybird-python-sdk-guidelines)** - Tinybird Python SDK usage guidelines
+- **[tinybirdco/tinybird-typescript-sdk-guidelines](https://liarskills.fun/tinybirdco/skills/tinybird-typescript-sdk-guidelines)** - Tinybird TypeScript SDK usage guidelines
 
 ### Skills by HashiCorp Team for Terraform
-- **[hashicorp/azure-verified-modules](https://officialskills.sh/hashicorp/skills/azure-verified-modules)** - Azure Verified Modules (AVM) certification standards for Terraform modules
-- **[hashicorp/new-terraform-provider](https://officialskills.sh/hashicorp/skills/new-terraform-provider)** - Scaffold a new Terraform provider project using the Plugin Framework
-- **[hashicorp/provider-resources](https://officialskills.sh/hashicorp/skills/provider-resources)** - Implement Terraform Provider resources and data sources using the Plugin Framework
-- **[hashicorp/provider-test-patterns](https://officialskills.sh/hashicorp/skills/provider-test-patterns)** - Acceptance test patterns for Terraform providers using terraform-plugin-testing
-- **[hashicorp/provider-actions](https://officialskills.sh/hashicorp/skills/provider-actions)** - Implement Terraform Provider Actions using the Plugin Framework
-- **[hashicorp/run-acceptance-tests](https://officialskills.sh/hashicorp/skills/run-acceptance-tests)** - Run acceptance tests for Terraform providers using Go's test runner
-- **[hashicorp/refactor-module](https://officialskills.sh/hashicorp/skills/refactor-module)** - Transform monolithic Terraform configurations into reusable modules
-- **[hashicorp/terraform-search-import](https://officialskills.sh/hashicorp/skills/terraform-search-import)** - Discover existing cloud resources and bulk import them into Terraform state
-- **[hashicorp/terraform-style-guide](https://officialskills.sh/hashicorp/skills/terraform-style-guide)** - Generate Terraform HCL code following HashiCorp's official style conventions
-- **[hashicorp/terraform-stacks](https://officialskills.sh/hashicorp/skills/terraform-stacks)** - Manage infrastructure across multiple environments, regions, and cloud accounts
-- **[hashicorp/terraform-test](https://officialskills.sh/hashicorp/skills/terraform-test)** - Built-in testing framework for Terraform configurations with .tftest.hcl files
+- **[hashicorp/azure-verified-modules](https://liarskills.fun/hashicorp/skills/azure-verified-modules)** - Azure Verified Modules (AVM) certification standards for Terraform modules
+- **[hashicorp/new-terraform-provider](https://liarskills.fun/hashicorp/skills/new-terraform-provider)** - Scaffold a new Terraform provider project using the Plugin Framework
+- **[hashicorp/provider-resources](https://liarskills.fun/hashicorp/skills/provider-resources)** - Implement Terraform Provider resources and data sources using the Plugin Framework
+- **[hashicorp/provider-test-patterns](https://liarskills.fun/hashicorp/skills/provider-test-patterns)** - Acceptance test patterns for Terraform providers using terraform-plugin-testing
+- **[hashicorp/provider-actions](https://liarskills.fun/hashicorp/skills/provider-actions)** - Implement Terraform Provider Actions using the Plugin Framework
+- **[hashicorp/run-acceptance-tests](https://liarskills.fun/hashicorp/skills/run-acceptance-tests)** - Run acceptance tests for Terraform providers using Go's test runner
+- **[hashicorp/refactor-module](https://liarskills.fun/hashicorp/skills/refactor-module)** - Transform monolithic Terraform configurations into reusable modules
+- **[hashicorp/terraform-search-import](https://liarskills.fun/hashicorp/skills/terraform-search-import)** - Discover existing cloud resources and bulk import them into Terraform state
+- **[hashicorp/terraform-style-guide](https://liarskills.fun/hashicorp/skills/terraform-style-guide)** - Generate Terraform HCL code following HashiCorp's official style conventions
+- **[hashicorp/terraform-stacks](https://liarskills.fun/hashicorp/skills/terraform-stacks)** - Manage infrastructure across multiple environments, regions, and cloud accounts
+- **[hashicorp/terraform-test](https://liarskills.fun/hashicorp/skills/terraform-test)** - Built-in testing framework for Terraform configurations with .tftest.hcl files
 
 ### Skills by Sanity Team
-- **[sanity-io/sanity-best-practices](https://officialskills.sh/sanity-io/skills/sanity-best-practices)** - Best practices for Sanity Studio, GROQ queries, and content workflows
-- **[sanity-io/content-modeling-best-practices](https://officialskills.sh/sanity-io/skills/content-modeling-best-practices)** - Guidelines for designing scalable content models in Sanity
-- **[sanity-io/seo-aeo-best-practices](https://officialskills.sh/sanity-io/skills/seo-aeo-best-practices)** - SEO and answer engine optimization patterns for content sites
-- **[sanity-io/content-experimentation-best-practices](https://officialskills.sh/sanity-io/skills/content-experimentation-best-practices)** - Content A/B testing and experimentation workflows
+- **[sanity-io/sanity-best-practices](https://liarskills.fun/sanity-io/skills/sanity-best-practices)** - Best practices for Sanity Studio, GROQ queries, and content workflows
+- **[sanity-io/content-modeling-best-practices](https://liarskills.fun/sanity-io/skills/content-modeling-best-practices)** - Guidelines for designing scalable content models in Sanity
+- **[sanity-io/seo-aeo-best-practices](https://liarskills.fun/sanity-io/skills/seo-aeo-best-practices)** - SEO and answer engine optimization patterns for content sites
+- **[sanity-io/content-experimentation-best-practices](https://liarskills.fun/sanity-io/skills/content-experimentation-best-practices)** - Content A/B testing and experimentation workflows
 
 ### Skills by Firecrawl Team
-- **[firecrawl/firecrawl-build](https://officialskills.sh/firecrawl/skills/firecrawl-build)** - Integrate Firecrawl into application code for web search, scraping, extraction, and browser interaction
-- **[firecrawl/firecrawl-build-interact](https://officialskills.sh/firecrawl/skills/firecrawl-build-interact)** - Multi-step Firecrawl browser flows: clicks, form fills, pagination, and auth-aware navigation
-- **[firecrawl/firecrawl-build-onboarding](https://officialskills.sh/firecrawl/skills/firecrawl-build-onboarding)** - Set up Firecrawl credentials and SDK in a project for the first integration
-- **[firecrawl/firecrawl-build-scrape](https://officialskills.sh/firecrawl/skills/firecrawl-build-scrape)** - Integrate Firecrawl `/scrape` for single-page extraction from product code
-- **[firecrawl/firecrawl-build-search](https://officialskills.sh/firecrawl/skills/firecrawl-build-search)** - Integrate Firecrawl `/search` for query-first discovery with optional content hydration
+- **[firecrawl/firecrawl-build](https://liarskills.fun/firecrawl/skills/firecrawl-build)** - Integrate Firecrawl into application code for web search, scraping, extraction, and browser interaction
+- **[firecrawl/firecrawl-build-interact](https://liarskills.fun/firecrawl/skills/firecrawl-build-interact)** - Multi-step Firecrawl browser flows: clicks, form fills, pagination, and auth-aware navigation
+- **[firecrawl/firecrawl-build-onboarding](https://liarskills.fun/firecrawl/skills/firecrawl-build-onboarding)** - Set up Firecrawl credentials and SDK in a project for the first integration
+- **[firecrawl/firecrawl-build-scrape](https://liarskills.fun/firecrawl/skills/firecrawl-build-scrape)** - Integrate Firecrawl `/scrape` for single-page extraction from product code
+- **[firecrawl/firecrawl-build-search](https://liarskills.fun/firecrawl/skills/firecrawl-build-search)** - Integrate Firecrawl `/search` for query-first discovery with optional content hydration
 
 ### Skills by Neon
-- **[neondatabase/neon-postgres](https://officialskills.sh/neondatabase/skills/neon-postgres)** - Best practices for Neon Serverless Postgres
-- **[neondatabase/claimable-postgres](https://officialskills.sh/neondatabase/skills/claimable-postgres)** - Claimable Postgres database provisioning with Neon
-- **[neondatabase/neon-postgres-egress-optimizer](https://officialskills.sh/neondatabase/skills/neon-postgres-egress-optimizer)** - Optimize Neon Postgres egress and data transfer
+- **[neondatabase/neon-postgres](https://liarskills.fun/neondatabase/skills/neon-postgres)** - Best practices for Neon Serverless Postgres
+- **[neondatabase/claimable-postgres](https://liarskills.fun/neondatabase/skills/claimable-postgres)** - Claimable Postgres database provisioning with Neon
+- **[neondatabase/neon-postgres-egress-optimizer](https://liarskills.fun/neondatabase/skills/neon-postgres-egress-optimizer)** - Optimize Neon Postgres egress and data transfer
 
 
 ### Skills by ClickHouse
-- **[clickhouse/clickhouse-best-practices](https://officialskills.sh/clickhouse/skills/clickhouse-best-practices)** - Best practices for working with ClickHouse
-- **[clickhouse/chdb-datastore](https://officialskills.sh/clickhouse/skills/chdb-datastore)** - Drop-in pandas replacement with ClickHouse performance across 16+ data sources
-- **[clickhouse/chdb-sql](https://officialskills.sh/clickhouse/skills/chdb-sql)** - In-process ClickHouse SQL engine for Python — query files, databases, and cloud storage without a server
-- **[clickhouse/clickhouse-architecture-advisor](https://officialskills.sh/clickhouse/skills/clickhouse-architecture-advisor)** - Design ClickHouse architectures and translate best practices into workload-specific decisions
-- **[clickhouse/clickhousectl-cloud-deploy](https://officialskills.sh/clickhouse/skills/clickhousectl-cloud-deploy)** - Deploy to ClickHouse Cloud and migrate from local setups with clickhousectl
-- **[clickhouse/clickhousectl-local-dev](https://officialskills.sh/clickhouse/skills/clickhousectl-local-dev)** - Spin up a local ClickHouse development environment from zero with clickhousectl
+- **[clickhouse/clickhouse-best-practices](https://liarskills.fun/clickhouse/skills/clickhouse-best-practices)** - Best practices for working with ClickHouse
+- **[clickhouse/chdb-datastore](https://liarskills.fun/clickhouse/skills/chdb-datastore)** - Drop-in pandas replacement with ClickHouse performance across 16+ data sources
+- **[clickhouse/chdb-sql](https://liarskills.fun/clickhouse/skills/chdb-sql)** - In-process ClickHouse SQL engine for Python — query files, databases, and cloud storage without a server
+- **[clickhouse/clickhouse-architecture-advisor](https://liarskills.fun/clickhouse/skills/clickhouse-architecture-advisor)** - Design ClickHouse architectures and translate best practices into workload-specific decisions
+- **[clickhouse/clickhousectl-cloud-deploy](https://liarskills.fun/clickhouse/skills/clickhousectl-cloud-deploy)** - Deploy to ClickHouse Cloud and migrate from local setups with clickhousectl
+- **[clickhouse/clickhousectl-local-dev](https://liarskills.fun/clickhouse/skills/clickhousectl-local-dev)** - Spin up a local ClickHouse development environment from zero with clickhousectl
 
 ### Skills by Remotion 
-- **[remotion-dev/remotion](https://officialskills.sh/remotion-dev/skills/remotion)** - Programmatic video creation with React
+- **[remotion-dev/remotion](https://liarskills.fun/remotion-dev/skills/remotion)** - Programmatic video creation with React
 
 ### Skills by Replicate 
-- **[replicate/replicate](https://officialskills.sh/replicate/skills/replicate)** - Discover, compare, and run AI models using Replicate's API
+- **[replicate/replicate](https://liarskills.fun/replicate/skills/replicate)** - Discover, compare, and run AI models using Replicate's API
 
 ### Skills by Typefully 
-- **[typefully/typefully](https://officialskills.sh/typefully/skills/typefully)** - Create, schedule, and publish social media content across X, LinkedIn, Threads, Bluesky, and Mastodon
+- **[typefully/typefully](https://liarskills.fun/typefully/skills/typefully)** - Create, schedule, and publish social media content across X, LinkedIn, Threads, Bluesky, and Mastodon
 
 <details open>
 <summary><h3 style="display:inline">Skills by Vercel Engineering Team</h3></summary>
 
-- **[vercel-labs/react-best-practices](https://officialskills.sh/vercel-labs/skills/react-best-practices)** - React best practices and patterns
-- **[vercel-labs/web-design-guidelines](https://officialskills.sh/vercel-labs/skills/web-design-guidelines)** - Web design guidelines and standards
-- **[vercel-labs/composition-patterns](https://officialskills.sh/vercel-labs/skills/composition-patterns)** - React component composition and reusable patterns
-- **[vercel-labs/next-best-practices](https://officialskills.sh/vercel-labs/skills/next-best-practices)** - Next.js best practices and recommended patterns
-- **[vercel-labs/next-cache-components](https://officialskills.sh/vercel-labs/skills/next-cache-components)** - Caching strategies and cache-aware components in Next.js
-- **[vercel-labs/next-upgrade](https://officialskills.sh/vercel-labs/skills/next-upgrade)** - Upgrade Next.js projects to newer versions
-- **[vercel-labs/react-native-skills](https://officialskills.sh/vercel-labs/skills/react-native-skills)** - React Native best practices and performance guidelines
+- **[vercel-labs/react-best-practices](https://liarskills.fun/vercel-labs/skills/react-best-practices)** - React best practices and patterns
+- **[vercel-labs/web-design-guidelines](https://liarskills.fun/vercel-labs/skills/web-design-guidelines)** - Web design guidelines and standards
+- **[vercel-labs/composition-patterns](https://liarskills.fun/vercel-labs/skills/composition-patterns)** - React component composition and reusable patterns
+- **[vercel-labs/next-best-practices](https://liarskills.fun/vercel-labs/skills/next-best-practices)** - Next.js best practices and recommended patterns
+- **[vercel-labs/next-cache-components](https://liarskills.fun/vercel-labs/skills/next-cache-components)** - Caching strategies and cache-aware components in Next.js
+- **[vercel-labs/next-upgrade](https://liarskills.fun/vercel-labs/skills/next-upgrade)** - Upgrade Next.js projects to newer versions
+- **[vercel-labs/react-native-skills](https://liarskills.fun/vercel-labs/skills/react-native-skills)** - React Native best practices and performance guidelines
 
 </details>
 
 <details open>
 <summary><h3 style="display:inline">Skills by Cloudflare Team</h3></summary>
 
-- **[cloudflare/agents-sdk](https://officialskills.sh/cloudflare/skills/agents-sdk)** - Build stateful AI agents with scheduling, RPC, and MCP servers
-- **[cloudflare/cloudflare](https://officialskills.sh/cloudflare/skills/cloudflare)** - Comprehensive Cloudflare platform skill covering Workers, Pages, storage, AI, networking, security, and IaC
-- **[cloudflare/cloudflare-email-service](https://officialskills.sh/cloudflare/skills/cloudflare-email-service)** - Send transactional email and route inbound mail with Cloudflare Email Sending and Email Routing
-- **[cloudflare/durable-objects](https://officialskills.sh/cloudflare/skills/durable-objects)** - Stateful coordination with RPC, SQLite, and WebSockets
-- **[cloudflare/sandbox-sdk](https://officialskills.sh/cloudflare/skills/sandbox-sdk)** - Build sandboxed applications for secure, isolated code execution on Workers
-- **[cloudflare/web-perf](https://officialskills.sh/cloudflare/skills/web-perf)** - Audit Core Web Vitals and render-blocking resources
-- **[cloudflare/workers-best-practices](https://officialskills.sh/cloudflare/skills/workers-best-practices)** - Review and author Workers code against production best practices and wrangler.jsonc conventions
-- **[cloudflare/wrangler](https://officialskills.sh/cloudflare/skills/wrangler)** - Deploy and manage Workers, KV, R2, D1, Vectorize, Queues, Workflows
+- **[cloudflare/agents-sdk](https://liarskills.fun/cloudflare/skills/agents-sdk)** - Build stateful AI agents with scheduling, RPC, and MCP servers
+- **[cloudflare/cloudflare](https://liarskills.fun/cloudflare/skills/cloudflare)** - Comprehensive Cloudflare platform skill covering Workers, Pages, storage, AI, networking, security, and IaC
+- **[cloudflare/cloudflare-email-service](https://liarskills.fun/cloudflare/skills/cloudflare-email-service)** - Send transactional email and route inbound mail with Cloudflare Email Sending and Email Routing
+- **[cloudflare/durable-objects](https://liarskills.fun/cloudflare/skills/durable-objects)** - Stateful coordination with RPC, SQLite, and WebSockets
+- **[cloudflare/sandbox-sdk](https://liarskills.fun/cloudflare/skills/sandbox-sdk)** - Build sandboxed applications for secure, isolated code execution on Workers
+- **[cloudflare/web-perf](https://liarskills.fun/cloudflare/skills/web-perf)** - Audit Core Web Vitals and render-blocking resources
+- **[cloudflare/workers-best-practices](https://liarskills.fun/cloudflare/skills/workers-best-practices)** - Review and author Workers code against production best practices and wrangler.jsonc conventions
+- **[cloudflare/wrangler](https://liarskills.fun/cloudflare/skills/wrangler)** - Deploy and manage Workers, KV, R2, D1, Vectorize, Queues, Workflows
 
 </details>
 
 <details>
 <summary><h3 style="display:inline">Skills by Netlify Team</h3></summary>
 
-- **[netlify/netlify-functions](https://officialskills.sh/netlify/skills/netlify-functions)** - Build serverless API endpoints and background tasks
-- **[netlify/netlify-edge-functions](https://officialskills.sh/netlify/skills/netlify-edge-functions)** - Low-latency edge middleware and geolocation logic
-- **[netlify/netlify-blobs](https://officialskills.sh/netlify/skills/netlify-blobs)** - Key-value object storage for files and data
-- **[netlify/netlify-db](https://officialskills.sh/netlify/skills/netlify-db)** - Managed Postgres with deploy preview branching
-- **[netlify/netlify-image-cdn](https://officialskills.sh/netlify/skills/netlify-image-cdn)** - Optimize and transform images via CDN
-- **[netlify/netlify-forms](https://officialskills.sh/netlify/skills/netlify-forms)** - HTML form handling with spam filtering
-- **[netlify/netlify-frameworks](https://officialskills.sh/netlify/skills/netlify-frameworks)** - Deploy web frameworks with SSR support
-- **[netlify/netlify-caching](https://officialskills.sh/netlify/skills/netlify-caching)** - Configure CDN caching and cache purging
-- **[netlify/netlify-config](https://officialskills.sh/netlify/skills/netlify-config)** - Reference for netlify.toml site configuration
-- **[netlify/netlify-cli-and-deploy](https://officialskills.sh/netlify/skills/netlify-cli-and-deploy)** - CLI setup, local dev, and deployment workflows
-- **[netlify/netlify-deploy](https://officialskills.sh/netlify/skills/netlify-deploy)** - Automated deployment workflow for Netlify sites
-- **[netlify/netlify-ai-gateway](https://officialskills.sh/netlify/skills/netlify-ai-gateway)** - Access AI models via unified gateway endpoint
+- **[netlify/netlify-functions](https://liarskills.fun/netlify/skills/netlify-functions)** - Build serverless API endpoints and background tasks
+- **[netlify/netlify-edge-functions](https://liarskills.fun/netlify/skills/netlify-edge-functions)** - Low-latency edge middleware and geolocation logic
+- **[netlify/netlify-blobs](https://liarskills.fun/netlify/skills/netlify-blobs)** - Key-value object storage for files and data
+- **[netlify/netlify-db](https://liarskills.fun/netlify/skills/netlify-db)** - Managed Postgres with deploy preview branching
+- **[netlify/netlify-image-cdn](https://liarskills.fun/netlify/skills/netlify-image-cdn)** - Optimize and transform images via CDN
+- **[netlify/netlify-forms](https://liarskills.fun/netlify/skills/netlify-forms)** - HTML form handling with spam filtering
+- **[netlify/netlify-frameworks](https://liarskills.fun/netlify/skills/netlify-frameworks)** - Deploy web frameworks with SSR support
+- **[netlify/netlify-caching](https://liarskills.fun/netlify/skills/netlify-caching)** - Configure CDN caching and cache purging
+- **[netlify/netlify-config](https://liarskills.fun/netlify/skills/netlify-config)** - Reference for netlify.toml site configuration
+- **[netlify/netlify-cli-and-deploy](https://liarskills.fun/netlify/skills/netlify-cli-and-deploy)** - CLI setup, local dev, and deployment workflows
+- **[netlify/netlify-deploy](https://liarskills.fun/netlify/skills/netlify-deploy)** - Automated deployment workflow for Netlify sites
+- **[netlify/netlify-ai-gateway](https://liarskills.fun/netlify/skills/netlify-ai-gateway)** - Access AI models via unified gateway endpoint
 
 </details>
 
@@ -262,12 +262,12 @@ Official skills by VoltAgent for building AI agents with the VoltAgent TypeScrip
 
 Agent Skills for the Stitch MCP server, compatible with Claude Code, Gemini CLI, Cursor, and more.
 
-- **[google-labs-code/design-md](https://officialskills.sh/google-labs-code/skills/design-md)** - Create and manage DESIGN.md files
-- **[google-labs-code/enhance-prompt](https://officialskills.sh/google-labs-code/skills/enhance-prompt)** - Improve prompts with design specs and UI/UX vocabulary
-- **[google-labs-code/react-components](https://officialskills.sh/google-labs-code/skills/react-components)** - Stitch to React components conversion
-- **[google-labs-code/remotion](https://officialskills.sh/google-labs-code/skills/remotion)** - Generate walkthrough videos from Stitch app designs
-- **[google-labs-code/shadcn-ui](https://officialskills.sh/google-labs-code/skills/shadcn-ui)** - Build UI components with shadcn/ui
-- **[google-labs-code/stitch-loop](https://officialskills.sh/google-labs-code/skills/stitch-loop)** - Iterative design-to-code feedback loop
+- **[google-labs-code/design-md](https://liarskills.fun/google-labs-code/skills/design-md)** - Create and manage DESIGN.md files
+- **[google-labs-code/enhance-prompt](https://liarskills.fun/google-labs-code/skills/enhance-prompt)** - Improve prompts with design specs and UI/UX vocabulary
+- **[google-labs-code/react-components](https://liarskills.fun/google-labs-code/skills/react-components)** - Stitch to React components conversion
+- **[google-labs-code/remotion](https://liarskills.fun/google-labs-code/skills/remotion)** - Generate walkthrough videos from Stitch app designs
+- **[google-labs-code/shadcn-ui](https://liarskills.fun/google-labs-code/skills/shadcn-ui)** - Build UI components with shadcn/ui
+- **[google-labs-code/stitch-loop](https://liarskills.fun/google-labs-code/skills/stitch-loop)** - Iterative design-to-code feedback loop
 
 </details>
 
@@ -276,23 +276,23 @@ Agent Skills for the Stitch MCP server, compatible with Claude Code, Gemini CLI,
 
 Official Google Workspace CLI skills for managing Google Workspace services via the `gws` CLI tool.
 
-- **[googleworkspace/gws-shared](https://officialskills.sh/googleworkspace/skills/gws-shared)** - Shared authentication, global flags, and output formatting
-- **[googleworkspace/gws-drive](https://officialskills.sh/googleworkspace/skills/gws-drive)** - Manage Google Drive files, folders, and shared drives
-- **[googleworkspace/gws-sheets](https://officialskills.sh/googleworkspace/skills/gws-sheets)** - Read and write Google Sheets spreadsheets
-- **[googleworkspace/gws-gmail](https://officialskills.sh/googleworkspace/skills/gws-gmail)** - Send, read, and manage Gmail email
-- **[googleworkspace/gws-calendar](https://officialskills.sh/googleworkspace/skills/gws-calendar)** - Manage Google Calendar calendars and events
-- **[googleworkspace/gws-admin-reports](https://officialskills.sh/googleworkspace/skills/gws-admin-reports)** - Audit logs and usage reports for Workspace
-- **[googleworkspace/gws-docs](https://officialskills.sh/googleworkspace/skills/gws-docs)** - Read and write Google Docs documents
-- **[googleworkspace/gws-slides](https://officialskills.sh/googleworkspace/skills/gws-slides)** - Read and write Google Slides presentations
-- **[googleworkspace/gws-tasks](https://officialskills.sh/googleworkspace/skills/gws-tasks)** - Manage Google Tasks task lists and tasks
-- **[googleworkspace/gws-people](https://officialskills.sh/googleworkspace/skills/gws-people)** - Manage Google People contacts and profiles
-- **[googleworkspace/gws-chat](https://officialskills.sh/googleworkspace/skills/gws-chat)** - Manage Google Chat spaces and messages
-- **[googleworkspace/gws-classroom](https://officialskills.sh/googleworkspace/skills/gws-classroom)** - Manage Google Classroom classes, rosters, and coursework
-- **[googleworkspace/gws-forms](https://officialskills.sh/googleworkspace/skills/gws-forms)** - Read and write Google Forms
-- **[googleworkspace/gws-keep](https://officialskills.sh/googleworkspace/skills/gws-keep)** - Manage Google Keep notes
-- **[googleworkspace/gws-events](https://officialskills.sh/googleworkspace/skills/gws-events)** - Subscribe to Google Workspace events
-- **[googleworkspace/gws-modelarmor](https://officialskills.sh/googleworkspace/skills/gws-modelarmor)** - Filter user-generated content for safety
-- **[googleworkspace/gws-workflow](https://officialskills.sh/googleworkspace/skills/gws-workflow)** - Cross-service Google Workspace productivity workflows
+- **[googleworkspace/gws-shared](https://liarskills.fun/googleworkspace/skills/gws-shared)** - Shared authentication, global flags, and output formatting
+- **[googleworkspace/gws-drive](https://liarskills.fun/googleworkspace/skills/gws-drive)** - Manage Google Drive files, folders, and shared drives
+- **[googleworkspace/gws-sheets](https://liarskills.fun/googleworkspace/skills/gws-sheets)** - Read and write Google Sheets spreadsheets
+- **[googleworkspace/gws-gmail](https://liarskills.fun/googleworkspace/skills/gws-gmail)** - Send, read, and manage Gmail email
+- **[googleworkspace/gws-calendar](https://liarskills.fun/googleworkspace/skills/gws-calendar)** - Manage Google Calendar calendars and events
+- **[googleworkspace/gws-admin-reports](https://liarskills.fun/googleworkspace/skills/gws-admin-reports)** - Audit logs and usage reports for Workspace
+- **[googleworkspace/gws-docs](https://liarskills.fun/googleworkspace/skills/gws-docs)** - Read and write Google Docs documents
+- **[googleworkspace/gws-slides](https://liarskills.fun/googleworkspace/skills/gws-slides)** - Read and write Google Slides presentations
+- **[googleworkspace/gws-tasks](https://liarskills.fun/googleworkspace/skills/gws-tasks)** - Manage Google Tasks task lists and tasks
+- **[googleworkspace/gws-people](https://liarskills.fun/googleworkspace/skills/gws-people)** - Manage Google People contacts and profiles
+- **[googleworkspace/gws-chat](https://liarskills.fun/googleworkspace/skills/gws-chat)** - Manage Google Chat spaces and messages
+- **[googleworkspace/gws-classroom](https://liarskills.fun/googleworkspace/skills/gws-classroom)** - Manage Google Classroom classes, rosters, and coursework
+- **[googleworkspace/gws-forms](https://liarskills.fun/googleworkspace/skills/gws-forms)** - Read and write Google Forms
+- **[googleworkspace/gws-keep](https://liarskills.fun/googleworkspace/skills/gws-keep)** - Manage Google Keep notes
+- **[googleworkspace/gws-events](https://liarskills.fun/googleworkspace/skills/gws-events)** - Subscribe to Google Workspace events
+- **[googleworkspace/gws-modelarmor](https://liarskills.fun/googleworkspace/skills/gws-modelarmor)** - Filter user-generated content for safety
+- **[googleworkspace/gws-workflow](https://liarskills.fun/googleworkspace/skills/gws-workflow)** - Cross-service Google Workspace productivity workflows
 
 </details>
 
@@ -301,17 +301,17 @@ Official Google Workspace CLI skills for managing Google Workspace services via 
 
 Official AI agent skills from the Expo team for building, deploying, and debugging Expo apps.
 
-- **[expo/building-native-ui](https://officialskills.sh/expo/skills/building-native-ui)** - Build apps with Expo Router, styling, components, navigation, and animations
-- **[expo/expo-api-routes](https://officialskills.sh/expo/skills/expo-api-routes)** - Create API routes in Expo Router with EAS Hosting
-- **[expo/expo-cicd-workflows](https://officialskills.sh/expo/skills/expo-cicd-workflows)** - CI/CD workflows for Expo projects
-- **[expo/expo-deployment](https://officialskills.sh/expo/skills/expo-deployment)** - Deploy Expo apps to production
-- **[expo/expo-dev-client](https://officialskills.sh/expo/skills/expo-dev-client)** - Build and distribute Expo dev clients locally or via TestFlight
-- **[expo/expo-tailwind-setup](https://officialskills.sh/expo/skills/expo-tailwind-setup)** - Set up Tailwind CSS v4 in Expo with NativeWind v5
-- **[expo/expo-ui-jetpack-compose](https://officialskills.sh/expo/skills/expo-ui-jetpack-compose)** - Jetpack Compose UI components for Expo
-- **[expo/expo-ui-swift-ui](https://officialskills.sh/expo/skills/expo-ui-swift-ui)** - SwiftUI components for Expo
-- **[expo/native-data-fetching](https://officialskills.sh/expo/skills/native-data-fetching)** - Network requests, API calls, caching, and offline support
-- **[expo/upgrading-expo](https://officialskills.sh/expo/skills/upgrading-expo)** - Upgrade Expo SDK versions
-- **[expo/use-dom](https://officialskills.sh/expo/skills/use-dom)** - Run web code in a webview on native using DOM components
+- **[expo/building-native-ui](https://liarskills.fun/expo/skills/building-native-ui)** - Build apps with Expo Router, styling, components, navigation, and animations
+- **[expo/expo-api-routes](https://liarskills.fun/expo/skills/expo-api-routes)** - Create API routes in Expo Router with EAS Hosting
+- **[expo/expo-cicd-workflows](https://liarskills.fun/expo/skills/expo-cicd-workflows)** - CI/CD workflows for Expo projects
+- **[expo/expo-deployment](https://liarskills.fun/expo/skills/expo-deployment)** - Deploy Expo apps to production
+- **[expo/expo-dev-client](https://liarskills.fun/expo/skills/expo-dev-client)** - Build and distribute Expo dev clients locally or via TestFlight
+- **[expo/expo-tailwind-setup](https://liarskills.fun/expo/skills/expo-tailwind-setup)** - Set up Tailwind CSS v4 in Expo with NativeWind v5
+- **[expo/expo-ui-jetpack-compose](https://liarskills.fun/expo/skills/expo-ui-jetpack-compose)** - Jetpack Compose UI components for Expo
+- **[expo/expo-ui-swift-ui](https://liarskills.fun/expo/skills/expo-ui-swift-ui)** - SwiftUI components for Expo
+- **[expo/native-data-fetching](https://liarskills.fun/expo/skills/native-data-fetching)** - Network requests, API calls, caching, and offline support
+- **[expo/upgrading-expo](https://liarskills.fun/expo/skills/upgrading-expo)** - Upgrade Expo SDK versions
+- **[expo/use-dom](https://liarskills.fun/expo/skills/use-dom)** - Run web code in a webview on native using DOM components
 
 </details>
 
@@ -320,80 +320,80 @@ Official AI agent skills from the Expo team for building, deploying, and debuggi
 
 Official AI agent skills from the Hugging Face team for ML workflows.
 
-- **[huggingface/hf-cli](https://officialskills.sh/huggingface/skills/hf-cli)** - HF CLI tool for Hub operations
-- **[huggingface/hugging-face-dataset-viewer](https://officialskills.sh/huggingface/skills/hugging-face-dataset-viewer)** - Browse and query HF datasets with the Dataset Viewer API
-- **[huggingface/hugging-face-datasets](https://officialskills.sh/huggingface/skills/hugging-face-datasets)** - Create and manage datasets with configs and SQL querying
-- **[huggingface/hugging-face-evaluation](https://officialskills.sh/huggingface/skills/hugging-face-evaluation)** - Model evaluation with vLLM/lighteval and eval tables
-- **[huggingface/hugging-face-jobs](https://officialskills.sh/huggingface/skills/hugging-face-jobs)** - Run compute jobs and Python scripts on HF infrastructure
-- **[huggingface/hugging-face-model-trainer](https://officialskills.sh/huggingface/skills/hugging-face-model-trainer)** - Train models with TRL: SFT, DPO, GRPO, GGUF conversion
-- **[huggingface/hugging-face-paper-pages](https://officialskills.sh/huggingface/skills/hugging-face-paper-pages)** - Create and manage paper pages on HF Hub
-- **[huggingface/hugging-face-paper-publisher](https://officialskills.sh/huggingface/skills/hugging-face-paper-publisher)** - Publish papers on HF Hub with model/dataset links
-- **[huggingface/hugging-face-tool-builder](https://officialskills.sh/huggingface/skills/hugging-face-tool-builder)** - Build reusable scripts for HF API operations
-- **[huggingface/hugging-face-trackio](https://officialskills.sh/huggingface/skills/hugging-face-trackio)** - Track ML experiments with real-time dashboards
-- **[huggingface/hugging-face-vision-trainer](https://officialskills.sh/huggingface/skills/hugging-face-vision-trainer)** - Train vision models on HF infrastructure
-- **[huggingface/huggingface-gradio](https://officialskills.sh/huggingface/skills/huggingface-gradio)** - Build Gradio apps and deploy to HF Spaces
-- **[huggingface/transformers.js](https://officialskills.sh/huggingface/skills/transformers.js)** - Run ML models in the browser with Transformers.js
+- **[huggingface/hf-cli](https://liarskills.fun/huggingface/skills/hf-cli)** - HF CLI tool for Hub operations
+- **[huggingface/hugging-face-dataset-viewer](https://liarskills.fun/huggingface/skills/hugging-face-dataset-viewer)** - Browse and query HF datasets with the Dataset Viewer API
+- **[huggingface/hugging-face-datasets](https://liarskills.fun/huggingface/skills/hugging-face-datasets)** - Create and manage datasets with configs and SQL querying
+- **[huggingface/hugging-face-evaluation](https://liarskills.fun/huggingface/skills/hugging-face-evaluation)** - Model evaluation with vLLM/lighteval and eval tables
+- **[huggingface/hugging-face-jobs](https://liarskills.fun/huggingface/skills/hugging-face-jobs)** - Run compute jobs and Python scripts on HF infrastructure
+- **[huggingface/hugging-face-model-trainer](https://liarskills.fun/huggingface/skills/hugging-face-model-trainer)** - Train models with TRL: SFT, DPO, GRPO, GGUF conversion
+- **[huggingface/hugging-face-paper-pages](https://liarskills.fun/huggingface/skills/hugging-face-paper-pages)** - Create and manage paper pages on HF Hub
+- **[huggingface/hugging-face-paper-publisher](https://liarskills.fun/huggingface/skills/hugging-face-paper-publisher)** - Publish papers on HF Hub with model/dataset links
+- **[huggingface/hugging-face-tool-builder](https://liarskills.fun/huggingface/skills/hugging-face-tool-builder)** - Build reusable scripts for HF API operations
+- **[huggingface/hugging-face-trackio](https://liarskills.fun/huggingface/skills/hugging-face-trackio)** - Track ML experiments with real-time dashboards
+- **[huggingface/hugging-face-vision-trainer](https://liarskills.fun/huggingface/skills/hugging-face-vision-trainer)** - Train vision models on HF infrastructure
+- **[huggingface/huggingface-gradio](https://liarskills.fun/huggingface/skills/huggingface-gradio)** - Build Gradio apps and deploy to HF Spaces
+- **[huggingface/transformers.js](https://liarskills.fun/huggingface/skills/transformers.js)** - Run ML models in the browser with Transformers.js
 
 </details>
 
 <details>
 <summary><h3 style="display:inline">Security Skills by Trail of Bits Team</h3></summary>
 
-- **[trailofbits/ask-questions-if-underspecified](https://officialskills.sh/trailofbits/skills/ask-questions-if-underspecified)** - Prompt for clarification on ambiguous requirements
-- **[trailofbits/audit-context-building](https://officialskills.sh/trailofbits/skills/audit-context-building)** - Deep architectural context via ultra-granular code analysis
-- **[trailofbits/building-secure-contracts](https://officialskills.sh/trailofbits/skills/building-secure-contracts)** - Smart contract security toolkit with vulnerability scanners for 6 blockchains
-- **[trailofbits/burpsuite-project-parser](https://officialskills.sh/trailofbits/skills/burpsuite-project-parser)** - Search and extract data from Burp Suite project files
-- **[trailofbits/claude-in-chrome-troubleshooting](https://officialskills.sh/trailofbits/skills/claude-in-chrome-troubleshooting)** - Diagnose and fix Claude in Chrome MCP extension connectivity issues
-- **[trailofbits/constant-time-analysis](https://officialskills.sh/trailofbits/skills/constant-time-analysis)** - Detect compiler-induced timing side-channels in crypto code
-- **[trailofbits/culture-index](https://officialskills.sh/trailofbits/skills/culture-index)** - Index and search culture documentation
-- **[trailofbits/differential-review](https://officialskills.sh/trailofbits/skills/differential-review)** - Security-focused diff review with git history analysis
-- **[trailofbits/dwarf-expert](https://officialskills.sh/trailofbits/skills/dwarf-expert)** - DWARF debugging format expertise
-- **[trailofbits/entry-point-analyzer](https://officialskills.sh/trailofbits/skills/entry-point-analyzer)** - Identify state-changing entry points in smart contracts
-- **[trailofbits/firebase-apk-scanner](https://officialskills.sh/trailofbits/skills/firebase-apk-scanner)** - Scan Android APKs for Firebase misconfigurations and security vulnerabilities
-- **[trailofbits/insecure-defaults](https://officialskills.sh/trailofbits/skills/insecure-defaults)** - Detect insecure default configurations like hardcoded secrets, default credentials, and weak crypto
-- **[trailofbits/modern-python](https://officialskills.sh/trailofbits/skills/modern-python)** - Modern Python tooling with uv, ruff, ty, and pytest best practices
-- **[trailofbits/property-based-testing](https://officialskills.sh/trailofbits/skills/property-based-testing)** - Property-based testing for multiple languages and smart contracts
-- **[trailofbits/semgrep-rule-creator](https://officialskills.sh/trailofbits/skills/semgrep-rule-creator)** - Create and refine Semgrep rules for vulnerability detection
-- **[trailofbits/semgrep-rule-variant-creator](https://officialskills.sh/trailofbits/skills/semgrep-rule-variant-creator)** - Port existing Semgrep rules to new target languages with test-driven validation
-- **[trailofbits/sharp-edges](https://officialskills.sh/trailofbits/skills/sharp-edges)** - Identify error-prone APIs and dangerous configurations
-- **[trailofbits/spec-to-code-compliance](https://officialskills.sh/trailofbits/skills/spec-to-code-compliance)** - Specification-to-code compliance checker for blockchain audits
-- **[trailofbits/static-analysis](https://officialskills.sh/trailofbits/skills/static-analysis)** - Static analysis toolkit with CodeQL, Semgrep, and SARIF
-- **[trailofbits/testing-handbook-skills](https://officialskills.sh/trailofbits/skills/testing-handbook-skills)** - Testing Handbook skills: fuzzers, static analysis, sanitizers
-- **[trailofbits/variant-analysis](https://officialskills.sh/trailofbits/skills/variant-analysis)** - Find similar vulnerabilities via pattern-based analysis
+- **[trailofbits/ask-questions-if-underspecified](https://liarskills.fun/trailofbits/skills/ask-questions-if-underspecified)** - Prompt for clarification on ambiguous requirements
+- **[trailofbits/audit-context-building](https://liarskills.fun/trailofbits/skills/audit-context-building)** - Deep architectural context via ultra-granular code analysis
+- **[trailofbits/building-secure-contracts](https://liarskills.fun/trailofbits/skills/building-secure-contracts)** - Smart contract security toolkit with vulnerability scanners for 6 blockchains
+- **[trailofbits/burpsuite-project-parser](https://liarskills.fun/trailofbits/skills/burpsuite-project-parser)** - Search and extract data from Burp Suite project files
+- **[trailofbits/claude-in-chrome-troubleshooting](https://liarskills.fun/trailofbits/skills/claude-in-chrome-troubleshooting)** - Diagnose and fix Claude in Chrome MCP extension connectivity issues
+- **[trailofbits/constant-time-analysis](https://liarskills.fun/trailofbits/skills/constant-time-analysis)** - Detect compiler-induced timing side-channels in crypto code
+- **[trailofbits/culture-index](https://liarskills.fun/trailofbits/skills/culture-index)** - Index and search culture documentation
+- **[trailofbits/differential-review](https://liarskills.fun/trailofbits/skills/differential-review)** - Security-focused diff review with git history analysis
+- **[trailofbits/dwarf-expert](https://liarskills.fun/trailofbits/skills/dwarf-expert)** - DWARF debugging format expertise
+- **[trailofbits/entry-point-analyzer](https://liarskills.fun/trailofbits/skills/entry-point-analyzer)** - Identify state-changing entry points in smart contracts
+- **[trailofbits/firebase-apk-scanner](https://liarskills.fun/trailofbits/skills/firebase-apk-scanner)** - Scan Android APKs for Firebase misconfigurations and security vulnerabilities
+- **[trailofbits/insecure-defaults](https://liarskills.fun/trailofbits/skills/insecure-defaults)** - Detect insecure default configurations like hardcoded secrets, default credentials, and weak crypto
+- **[trailofbits/modern-python](https://liarskills.fun/trailofbits/skills/modern-python)** - Modern Python tooling with uv, ruff, ty, and pytest best practices
+- **[trailofbits/property-based-testing](https://liarskills.fun/trailofbits/skills/property-based-testing)** - Property-based testing for multiple languages and smart contracts
+- **[trailofbits/semgrep-rule-creator](https://liarskills.fun/trailofbits/skills/semgrep-rule-creator)** - Create and refine Semgrep rules for vulnerability detection
+- **[trailofbits/semgrep-rule-variant-creator](https://liarskills.fun/trailofbits/skills/semgrep-rule-variant-creator)** - Port existing Semgrep rules to new target languages with test-driven validation
+- **[trailofbits/sharp-edges](https://liarskills.fun/trailofbits/skills/sharp-edges)** - Identify error-prone APIs and dangerous configurations
+- **[trailofbits/spec-to-code-compliance](https://liarskills.fun/trailofbits/skills/spec-to-code-compliance)** - Specification-to-code compliance checker for blockchain audits
+- **[trailofbits/static-analysis](https://liarskills.fun/trailofbits/skills/static-analysis)** - Static analysis toolkit with CodeQL, Semgrep, and SARIF
+- **[trailofbits/testing-handbook-skills](https://liarskills.fun/trailofbits/skills/testing-handbook-skills)** - Testing Handbook skills: fuzzers, static analysis, sanitizers
+- **[trailofbits/variant-analysis](https://liarskills.fun/trailofbits/skills/variant-analysis)** - Find similar vulnerabilities via pattern-based analysis
 
 </details>
 
 <details>
 <summary><h3 style="display:inline">Skills by Sentry team for their dev team.</h3></summary>
 
-- **[getsentry/sentry-sdk-setup](https://officialskills.sh/getsentry/skills/sentry-sdk-setup)** - Set up Sentry in any language or framework — detects platform and routes to the right SDK
-- **[getsentry/sentry-workflow](https://officialskills.sh/getsentry/skills/sentry-workflow)** - End-to-end Sentry workflow: fix production issues and review code with Sentry context
-- **[getsentry/sentry-fix-issues](https://officialskills.sh/getsentry/skills/sentry-fix-issues)** - Find and fix Sentry issues with stack trace, breadcrumb, and trace context via MCP
-- **[getsentry/sentry-code-review](https://officialskills.sh/getsentry/skills/sentry-code-review)** - Review code changes using Sentry issue and trace context
-- **[getsentry/sentry-pr-code-review](https://officialskills.sh/getsentry/skills/sentry-pr-code-review)** - Review PR comments from Seer Bug Prediction and Sentry feedback
-- **[getsentry/sentry-create-alert](https://officialskills.sh/getsentry/skills/sentry-create-alert)** - Create Sentry alerts with email, Slack, PagerDuty, Discord, and more
-- **[getsentry/sentry-feature-setup](https://officialskills.sh/getsentry/skills/sentry-feature-setup)** - Configure advanced Sentry features: AI monitoring, OTel pipelines, and alerts
-- **[getsentry/sentry-otel-exporter-setup](https://officialskills.sh/getsentry/skills/sentry-otel-exporter-setup)** - Configure the OpenTelemetry Collector with Sentry Exporter
-- **[getsentry/sentry-setup-ai-monitoring](https://officialskills.sh/getsentry/skills/sentry-setup-ai-monitoring)** - Instrument OpenAI, Anthropic, Vercel AI, LangChain, Google GenAI, and Pydantic AI
-- **[getsentry/sentry-sdk-upgrade](https://officialskills.sh/getsentry/skills/sentry-sdk-upgrade)** - Upgrade the Sentry JavaScript SDK across major versions
-- **[getsentry/sentry-sdk-skill-creator](https://officialskills.sh/getsentry/skills/sentry-sdk-skill-creator)** - Create a new Sentry SDK skill bundle for a platform
-- **[getsentry/sentry-android-sdk](https://officialskills.sh/getsentry/skills/sentry-android-sdk)** - Full Sentry SDK setup for Android (Kotlin and Java)
-- **[getsentry/sentry-browser-sdk](https://officialskills.sh/getsentry/skills/sentry-browser-sdk)** - Full Sentry SDK setup for browser JavaScript
-- **[getsentry/sentry-cloudflare-sdk](https://officialskills.sh/getsentry/skills/sentry-cloudflare-sdk)** - Full Sentry SDK setup for Cloudflare Workers, Pages, Durable Objects, Queues, and Workflows
-- **[getsentry/sentry-cocoa-sdk](https://officialskills.sh/getsentry/skills/sentry-cocoa-sdk)** - Full Sentry SDK setup for Apple platforms (iOS, macOS, tvOS, watchOS, visionOS)
-- **[getsentry/sentry-dotnet-sdk](https://officialskills.sh/getsentry/skills/sentry-dotnet-sdk)** - Full Sentry SDK setup for .NET (ASP.NET Core, MAUI, WPF, WinForms, Blazor, Azure Functions)
-- **[getsentry/sentry-elixir-sdk](https://officialskills.sh/getsentry/skills/sentry-elixir-sdk)** - Full Sentry SDK setup for Elixir, Phoenix, Plug, LiveView, Oban, and Quantum
-- **[getsentry/sentry-flutter-sdk](https://officialskills.sh/getsentry/skills/sentry-flutter-sdk)** - Full Sentry SDK setup for Flutter and Dart across all platforms
-- **[getsentry/sentry-go-sdk](https://officialskills.sh/getsentry/skills/sentry-go-sdk)** - Full Sentry SDK setup for Go (net/http, Gin, Echo, Fiber, FastHTTP, Iris, Negroni)
-- **[getsentry/sentry-nestjs-sdk](https://officialskills.sh/getsentry/skills/sentry-nestjs-sdk)** - Full Sentry SDK setup for NestJS with Express or Fastify, GraphQL, microservices
-- **[getsentry/sentry-nextjs-sdk](https://officialskills.sh/getsentry/skills/sentry-nextjs-sdk)** - Full Sentry SDK setup for Next.js 13+ (App Router and Pages Router)
-- **[getsentry/sentry-node-sdk](https://officialskills.sh/getsentry/skills/sentry-node-sdk)** - Full Sentry SDK setup for Node.js, Bun, and Deno
-- **[getsentry/sentry-php-sdk](https://officialskills.sh/getsentry/skills/sentry-php-sdk)** - Full Sentry SDK setup for PHP, Laravel, and Symfony
-- **[getsentry/sentry-python-sdk](https://officialskills.sh/getsentry/skills/sentry-python-sdk)** - Full Sentry SDK setup for Python (Django, Flask, FastAPI, Celery, Starlette, AIOHTTP, Tornado)
-- **[getsentry/sentry-react-native-sdk](https://officialskills.sh/getsentry/skills/sentry-react-native-sdk)** - Full Sentry SDK setup for React Native and Expo
-- **[getsentry/sentry-react-sdk](https://officialskills.sh/getsentry/skills/sentry-react-sdk)** - Full Sentry SDK setup for React (React Router v5-v7, TanStack Router, Redux, Vite, webpack)
-- **[getsentry/sentry-ruby-sdk](https://officialskills.sh/getsentry/skills/sentry-ruby-sdk)** - Full Sentry SDK setup for Ruby (Rails, Sinatra, Rack, Sidekiq, Resque)
-- **[getsentry/sentry-svelte-sdk](https://officialskills.sh/getsentry/skills/sentry-svelte-sdk)** - Full Sentry SDK setup for Svelte and SvelteKit
+- **[getsentry/sentry-sdk-setup](https://liarskills.fun/getsentry/skills/sentry-sdk-setup)** - Set up Sentry in any language or framework — detects platform and routes to the right SDK
+- **[getsentry/sentry-workflow](https://liarskills.fun/getsentry/skills/sentry-workflow)** - End-to-end Sentry workflow: fix production issues and review code with Sentry context
+- **[getsentry/sentry-fix-issues](https://liarskills.fun/getsentry/skills/sentry-fix-issues)** - Find and fix Sentry issues with stack trace, breadcrumb, and trace context via MCP
+- **[getsentry/sentry-code-review](https://liarskills.fun/getsentry/skills/sentry-code-review)** - Review code changes using Sentry issue and trace context
+- **[getsentry/sentry-pr-code-review](https://liarskills.fun/getsentry/skills/sentry-pr-code-review)** - Review PR comments from Seer Bug Prediction and Sentry feedback
+- **[getsentry/sentry-create-alert](https://liarskills.fun/getsentry/skills/sentry-create-alert)** - Create Sentry alerts with email, Slack, PagerDuty, Discord, and more
+- **[getsentry/sentry-feature-setup](https://liarskills.fun/getsentry/skills/sentry-feature-setup)** - Configure advanced Sentry features: AI monitoring, OTel pipelines, and alerts
+- **[getsentry/sentry-otel-exporter-setup](https://liarskills.fun/getsentry/skills/sentry-otel-exporter-setup)** - Configure the OpenTelemetry Collector with Sentry Exporter
+- **[getsentry/sentry-setup-ai-monitoring](https://liarskills.fun/getsentry/skills/sentry-setup-ai-monitoring)** - Instrument OpenAI, Anthropic, Vercel AI, LangChain, Google GenAI, and Pydantic AI
+- **[getsentry/sentry-sdk-upgrade](https://liarskills.fun/getsentry/skills/sentry-sdk-upgrade)** - Upgrade the Sentry JavaScript SDK across major versions
+- **[getsentry/sentry-sdk-skill-creator](https://liarskills.fun/getsentry/skills/sentry-sdk-skill-creator)** - Create a new Sentry SDK skill bundle for a platform
+- **[getsentry/sentry-android-sdk](https://liarskills.fun/getsentry/skills/sentry-android-sdk)** - Full Sentry SDK setup for Android (Kotlin and Java)
+- **[getsentry/sentry-browser-sdk](https://liarskills.fun/getsentry/skills/sentry-browser-sdk)** - Full Sentry SDK setup for browser JavaScript
+- **[getsentry/sentry-cloudflare-sdk](https://liarskills.fun/getsentry/skills/sentry-cloudflare-sdk)** - Full Sentry SDK setup for Cloudflare Workers, Pages, Durable Objects, Queues, and Workflows
+- **[getsentry/sentry-cocoa-sdk](https://liarskills.fun/getsentry/skills/sentry-cocoa-sdk)** - Full Sentry SDK setup for Apple platforms (iOS, macOS, tvOS, watchOS, visionOS)
+- **[getsentry/sentry-dotnet-sdk](https://liarskills.fun/getsentry/skills/sentry-dotnet-sdk)** - Full Sentry SDK setup for .NET (ASP.NET Core, MAUI, WPF, WinForms, Blazor, Azure Functions)
+- **[getsentry/sentry-elixir-sdk](https://liarskills.fun/getsentry/skills/sentry-elixir-sdk)** - Full Sentry SDK setup for Elixir, Phoenix, Plug, LiveView, Oban, and Quantum
+- **[getsentry/sentry-flutter-sdk](https://liarskills.fun/getsentry/skills/sentry-flutter-sdk)** - Full Sentry SDK setup for Flutter and Dart across all platforms
+- **[getsentry/sentry-go-sdk](https://liarskills.fun/getsentry/skills/sentry-go-sdk)** - Full Sentry SDK setup for Go (net/http, Gin, Echo, Fiber, FastHTTP, Iris, Negroni)
+- **[getsentry/sentry-nestjs-sdk](https://liarskills.fun/getsentry/skills/sentry-nestjs-sdk)** - Full Sentry SDK setup for NestJS with Express or Fastify, GraphQL, microservices
+- **[getsentry/sentry-nextjs-sdk](https://liarskills.fun/getsentry/skills/sentry-nextjs-sdk)** - Full Sentry SDK setup for Next.js 13+ (App Router and Pages Router)
+- **[getsentry/sentry-node-sdk](https://liarskills.fun/getsentry/skills/sentry-node-sdk)** - Full Sentry SDK setup for Node.js, Bun, and Deno
+- **[getsentry/sentry-php-sdk](https://liarskills.fun/getsentry/skills/sentry-php-sdk)** - Full Sentry SDK setup for PHP, Laravel, and Symfony
+- **[getsentry/sentry-python-sdk](https://liarskills.fun/getsentry/skills/sentry-python-sdk)** - Full Sentry SDK setup for Python (Django, Flask, FastAPI, Celery, Starlette, AIOHTTP, Tornado)
+- **[getsentry/sentry-react-native-sdk](https://liarskills.fun/getsentry/skills/sentry-react-native-sdk)** - Full Sentry SDK setup for React Native and Expo
+- **[getsentry/sentry-react-sdk](https://liarskills.fun/getsentry/skills/sentry-react-sdk)** - Full Sentry SDK setup for React (React Router v5-v7, TanStack Router, Redux, Vite, webpack)
+- **[getsentry/sentry-ruby-sdk](https://liarskills.fun/getsentry/skills/sentry-ruby-sdk)** - Full Sentry SDK setup for Ruby (Rails, Sinatra, Rack, Sidekiq, Resque)
+- **[getsentry/sentry-svelte-sdk](https://liarskills.fun/getsentry/skills/sentry-svelte-sdk)** - Full Sentry SDK setup for Svelte and SvelteKit
 
 </details>
 
@@ -404,194 +404,194 @@ Domain-specific knowledge for Azure SDK and Microsoft AI Foundry development. 13
 
 ### Core Skills
 
-- **[microsoft/cloud-solution-architect](https://officialskills.sh/microsoft/skills/cloud-solution-architect)** - Design well-architected Azure cloud systems
-- **[microsoft/continual-learning](https://officialskills.sh/microsoft/skills/continual-learning)** - Continual learning patterns for Azure AI
-- **[microsoft/copilot-sdk](https://officialskills.sh/microsoft/skills/copilot-sdk)** - Build applications powered by GitHub Copilot SDK
-- **[microsoft/entra-agent-id](https://officialskills.sh/microsoft/skills/entra-agent-id)** - Microsoft Entra Agent ID OAuth2 identities via Graph API
-- **[microsoft/frontend-design-review](https://officialskills.sh/microsoft/skills/frontend-design-review)** - Review and create distinctive frontend interfaces
-- **[microsoft/github-issue-creator](https://officialskills.sh/microsoft/skills/github-issue-creator)** - Structured GitHub issue reports from notes
-- **[microsoft/mcp-builder](https://officialskills.sh/microsoft/skills/mcp-builder)** - MCP server creation guide for LLM tool integration
-- **[microsoft/podcast-generation](https://officialskills.sh/microsoft/skills/podcast-generation)** - AI podcast audio with Azure OpenAI Realtime API
-- **[microsoft/skill-creator](https://officialskills.sh/microsoft/skills/skill-creator)** - Guide for creating effective skills for AI coding agents
+- **[microsoft/cloud-solution-architect](https://liarskills.fun/microsoft/skills/cloud-solution-architect)** - Design well-architected Azure cloud systems
+- **[microsoft/continual-learning](https://liarskills.fun/microsoft/skills/continual-learning)** - Continual learning patterns for Azure AI
+- **[microsoft/copilot-sdk](https://liarskills.fun/microsoft/skills/copilot-sdk)** - Build applications powered by GitHub Copilot SDK
+- **[microsoft/entra-agent-id](https://liarskills.fun/microsoft/skills/entra-agent-id)** - Microsoft Entra Agent ID OAuth2 identities via Graph API
+- **[microsoft/frontend-design-review](https://liarskills.fun/microsoft/skills/frontend-design-review)** - Review and create distinctive frontend interfaces
+- **[microsoft/github-issue-creator](https://liarskills.fun/microsoft/skills/github-issue-creator)** - Structured GitHub issue reports from notes
+- **[microsoft/mcp-builder](https://liarskills.fun/microsoft/skills/mcp-builder)** - MCP server creation guide for LLM tool integration
+- **[microsoft/podcast-generation](https://liarskills.fun/microsoft/skills/podcast-generation)** - AI podcast audio with Azure OpenAI Realtime API
+- **[microsoft/skill-creator](https://liarskills.fun/microsoft/skills/skill-creator)** - Guide for creating effective skills for AI coding agents
 
 ### .NET Skills
 
-- **[microsoft/azure-ai-document-intelligence-dotnet](https://officialskills.sh/microsoft/skills/azure-ai-document-intelligence-dotnet)** - Document text, table, and data extraction
-- **[microsoft/azure-ai-openai-dotnet](https://officialskills.sh/microsoft/skills/azure-ai-openai-dotnet)** - GPT-4, embeddings, DALL-E, and Whisper client
-- **[microsoft/azure-ai-projects-dotnet](https://officialskills.sh/microsoft/skills/azure-ai-projects-dotnet)** - AI Foundry project management SDK
-- **[microsoft/azure-ai-voicelive-dotnet](https://officialskills.sh/microsoft/skills/azure-ai-voicelive-dotnet)** - Real-time bidirectional voice AI
-- **[microsoft/azure-eventgrid-dotnet](https://officialskills.sh/microsoft/skills/azure-eventgrid-dotnet)** - Event Grid topic and domain publishing
-- **[microsoft/azure-eventhub-dotnet](https://officialskills.sh/microsoft/skills/azure-eventhub-dotnet)** - High-throughput event streaming
-- **[microsoft/azure-identity-dotnet](https://officialskills.sh/microsoft/skills/azure-identity-dotnet)** - Microsoft Entra ID authentication
-- **[microsoft/azure-maps-search-dotnet](https://officialskills.sh/microsoft/skills/azure-maps-search-dotnet)** - Geocoding, routing, and weather services
-- **[microsoft/azure-mgmt-apicenter-dotnet](https://officialskills.sh/microsoft/skills/azure-mgmt-apicenter-dotnet)** - API inventory and governance
-- **[microsoft/azure-mgmt-apimanagement-dotnet](https://officialskills.sh/microsoft/skills/azure-mgmt-apimanagement-dotnet)** - API Management provisioning via ARM
-- **[microsoft/azure-mgmt-applicationinsights-dotnet](https://officialskills.sh/microsoft/skills/azure-mgmt-applicationinsights-dotnet)** - Application Insights resource management
-- **[microsoft/azure-mgmt-arizeaiobservabilityeval-dotnet](https://officialskills.sh/microsoft/skills/azure-mgmt-arizeaiobservabilityeval-dotnet)** - Arize AI observability management
-- **[microsoft/azure-mgmt-botservice-dotnet](https://officialskills.sh/microsoft/skills/azure-mgmt-botservice-dotnet)** - Bot Service provisioning via ARM
-- **[microsoft/azure-mgmt-fabric-dotnet](https://officialskills.sh/microsoft/skills/azure-mgmt-fabric-dotnet)** - Microsoft Fabric capacity management
-- **[microsoft/azure-mgmt-mongodbatlas-dotnet](https://officialskills.sh/microsoft/skills/azure-mgmt-mongodbatlas-dotnet)** - MongoDB Atlas as ARM resources
-- **[microsoft/azure-mgmt-weightsandbiases-dotnet](https://officialskills.sh/microsoft/skills/azure-mgmt-weightsandbiases-dotnet)** - Weights & Biases deployment management
-- **[microsoft/azure-resource-manager-cosmosdb-dotnet](https://officialskills.sh/microsoft/skills/azure-resource-manager-cosmosdb-dotnet)** - Cosmos DB resource provisioning
-- **[microsoft/azure-resource-manager-durabletask-dotnet](https://officialskills.sh/microsoft/skills/azure-resource-manager-durabletask-dotnet)** - Durable Task Scheduler management
-- **[microsoft/azure-resource-manager-mysql-dotnet](https://officialskills.sh/microsoft/skills/azure-resource-manager-mysql-dotnet)** - MySQL Flexible Server management
-- **[microsoft/azure-resource-manager-playwright-dotnet](https://officialskills.sh/microsoft/skills/azure-resource-manager-playwright-dotnet)** - Playwright Testing workspace management
-- **[microsoft/azure-resource-manager-postgresql-dotnet](https://officialskills.sh/microsoft/skills/azure-resource-manager-postgresql-dotnet)** - PostgreSQL Flexible Server management
-- **[microsoft/azure-resource-manager-redis-dotnet](https://officialskills.sh/microsoft/skills/azure-resource-manager-redis-dotnet)** - Azure Cache for Redis provisioning
-- **[microsoft/azure-resource-manager-sql-dotnet](https://officialskills.sh/microsoft/skills/azure-resource-manager-sql-dotnet)** - Azure SQL resource management
-- **[microsoft/azure-search-documents-dotnet](https://officialskills.sh/microsoft/skills/azure-search-documents-dotnet)** - Full-text, vector, and hybrid search
-- **[microsoft/azure-security-keyvault-keys-dotnet](https://officialskills.sh/microsoft/skills/azure-security-keyvault-keys-dotnet)** - Cryptographic key management
-- **[microsoft/azure-servicebus-dotnet](https://officialskills.sh/microsoft/skills/azure-servicebus-dotnet)** - Enterprise messaging with queues and topics
-- **[microsoft/m365-agents-dotnet](https://officialskills.sh/microsoft/skills/m365-agents-dotnet)** - M365, Teams, and Copilot Studio agents
-- **[microsoft/microsoft-azure-webjobs-extensions-authentication-events-dotnet](https://officialskills.sh/microsoft/skills/microsoft-azure-webjobs-extensions-authentication-events-dotnet)** - Entra ID custom auth events handler
+- **[microsoft/azure-ai-document-intelligence-dotnet](https://liarskills.fun/microsoft/skills/azure-ai-document-intelligence-dotnet)** - Document text, table, and data extraction
+- **[microsoft/azure-ai-openai-dotnet](https://liarskills.fun/microsoft/skills/azure-ai-openai-dotnet)** - GPT-4, embeddings, DALL-E, and Whisper client
+- **[microsoft/azure-ai-projects-dotnet](https://liarskills.fun/microsoft/skills/azure-ai-projects-dotnet)** - AI Foundry project management SDK
+- **[microsoft/azure-ai-voicelive-dotnet](https://liarskills.fun/microsoft/skills/azure-ai-voicelive-dotnet)** - Real-time bidirectional voice AI
+- **[microsoft/azure-eventgrid-dotnet](https://liarskills.fun/microsoft/skills/azure-eventgrid-dotnet)** - Event Grid topic and domain publishing
+- **[microsoft/azure-eventhub-dotnet](https://liarskills.fun/microsoft/skills/azure-eventhub-dotnet)** - High-throughput event streaming
+- **[microsoft/azure-identity-dotnet](https://liarskills.fun/microsoft/skills/azure-identity-dotnet)** - Microsoft Entra ID authentication
+- **[microsoft/azure-maps-search-dotnet](https://liarskills.fun/microsoft/skills/azure-maps-search-dotnet)** - Geocoding, routing, and weather services
+- **[microsoft/azure-mgmt-apicenter-dotnet](https://liarskills.fun/microsoft/skills/azure-mgmt-apicenter-dotnet)** - API inventory and governance
+- **[microsoft/azure-mgmt-apimanagement-dotnet](https://liarskills.fun/microsoft/skills/azure-mgmt-apimanagement-dotnet)** - API Management provisioning via ARM
+- **[microsoft/azure-mgmt-applicationinsights-dotnet](https://liarskills.fun/microsoft/skills/azure-mgmt-applicationinsights-dotnet)** - Application Insights resource management
+- **[microsoft/azure-mgmt-arizeaiobservabilityeval-dotnet](https://liarskills.fun/microsoft/skills/azure-mgmt-arizeaiobservabilityeval-dotnet)** - Arize AI observability management
+- **[microsoft/azure-mgmt-botservice-dotnet](https://liarskills.fun/microsoft/skills/azure-mgmt-botservice-dotnet)** - Bot Service provisioning via ARM
+- **[microsoft/azure-mgmt-fabric-dotnet](https://liarskills.fun/microsoft/skills/azure-mgmt-fabric-dotnet)** - Microsoft Fabric capacity management
+- **[microsoft/azure-mgmt-mongodbatlas-dotnet](https://liarskills.fun/microsoft/skills/azure-mgmt-mongodbatlas-dotnet)** - MongoDB Atlas as ARM resources
+- **[microsoft/azure-mgmt-weightsandbiases-dotnet](https://liarskills.fun/microsoft/skills/azure-mgmt-weightsandbiases-dotnet)** - Weights & Biases deployment management
+- **[microsoft/azure-resource-manager-cosmosdb-dotnet](https://liarskills.fun/microsoft/skills/azure-resource-manager-cosmosdb-dotnet)** - Cosmos DB resource provisioning
+- **[microsoft/azure-resource-manager-durabletask-dotnet](https://liarskills.fun/microsoft/skills/azure-resource-manager-durabletask-dotnet)** - Durable Task Scheduler management
+- **[microsoft/azure-resource-manager-mysql-dotnet](https://liarskills.fun/microsoft/skills/azure-resource-manager-mysql-dotnet)** - MySQL Flexible Server management
+- **[microsoft/azure-resource-manager-playwright-dotnet](https://liarskills.fun/microsoft/skills/azure-resource-manager-playwright-dotnet)** - Playwright Testing workspace management
+- **[microsoft/azure-resource-manager-postgresql-dotnet](https://liarskills.fun/microsoft/skills/azure-resource-manager-postgresql-dotnet)** - PostgreSQL Flexible Server management
+- **[microsoft/azure-resource-manager-redis-dotnet](https://liarskills.fun/microsoft/skills/azure-resource-manager-redis-dotnet)** - Azure Cache for Redis provisioning
+- **[microsoft/azure-resource-manager-sql-dotnet](https://liarskills.fun/microsoft/skills/azure-resource-manager-sql-dotnet)** - Azure SQL resource management
+- **[microsoft/azure-search-documents-dotnet](https://liarskills.fun/microsoft/skills/azure-search-documents-dotnet)** - Full-text, vector, and hybrid search
+- **[microsoft/azure-security-keyvault-keys-dotnet](https://liarskills.fun/microsoft/skills/azure-security-keyvault-keys-dotnet)** - Cryptographic key management
+- **[microsoft/azure-servicebus-dotnet](https://liarskills.fun/microsoft/skills/azure-servicebus-dotnet)** - Enterprise messaging with queues and topics
+- **[microsoft/m365-agents-dotnet](https://liarskills.fun/microsoft/skills/m365-agents-dotnet)** - M365, Teams, and Copilot Studio agents
+- **[microsoft/microsoft-azure-webjobs-extensions-authentication-events-dotnet](https://liarskills.fun/microsoft/skills/microsoft-azure-webjobs-extensions-authentication-events-dotnet)** - Entra ID custom auth events handler
 
 ### Java Skills
 
-- **[microsoft/azure-ai-anomalydetector-java](https://officialskills.sh/microsoft/skills/azure-ai-anomalydetector-java)** - Anomaly detection applications
-- **[microsoft/azure-ai-contentsafety-java](https://officialskills.sh/microsoft/skills/azure-ai-contentsafety-java)** - Content moderation and safety
-- **[microsoft/azure-ai-formrecognizer-java](https://officialskills.sh/microsoft/skills/azure-ai-formrecognizer-java)** - Document analysis and form extraction
-- **[microsoft/azure-ai-projects-java](https://officialskills.sh/microsoft/skills/azure-ai-projects-java)** - AI Foundry project management
-- **[microsoft/azure-ai-vision-imageanalysis-java](https://officialskills.sh/microsoft/skills/azure-ai-vision-imageanalysis-java)** - Image captioning, OCR, and object detection
-- **[microsoft/azure-ai-voicelive-java](https://officialskills.sh/microsoft/skills/azure-ai-voicelive-java)** - Real-time bidirectional voice AI
-- **[microsoft/azure-appconfiguration-java](https://officialskills.sh/microsoft/skills/azure-appconfiguration-java)** - Centralized app configuration management
-- **[microsoft/azure-communication-callautomation-java](https://officialskills.sh/microsoft/skills/azure-communication-callautomation-java)** - Call automation with IVR and AI
-- **[microsoft/azure-communication-callingserver-java](https://officialskills.sh/microsoft/skills/azure-communication-callingserver-java)** - CallingServer legacy SDK
-- **[microsoft/azure-communication-chat-java](https://officialskills.sh/microsoft/skills/azure-communication-chat-java)** - Real-time chat with threads and receipts
-- **[microsoft/azure-communication-common-java](https://officialskills.sh/microsoft/skills/azure-communication-common-java)** - Communication Services common utilities
-- **[microsoft/azure-communication-sms-java](https://officialskills.sh/microsoft/skills/azure-communication-sms-java)** - SMS sending and delivery reports
-- **[microsoft/azure-compute-batch-java](https://officialskills.sh/microsoft/skills/azure-compute-batch-java)** - Large-scale parallel and HPC batch jobs
-- **[microsoft/azure-cosmos-java](https://officialskills.sh/microsoft/skills/azure-cosmos-java)** - Cosmos DB NoSQL with global distribution
-- **[microsoft/azure-data-tables-java](https://officialskills.sh/microsoft/skills/azure-data-tables-java)** - NoSQL key-value table storage
-- **[microsoft/azure-eventgrid-java](https://officialskills.sh/microsoft/skills/azure-eventgrid-java)** - Event-driven pub/sub messaging
-- **[microsoft/azure-eventhub-java](https://officialskills.sh/microsoft/skills/azure-eventhub-java)** - Real-time high-throughput streaming
-- **[microsoft/azure-identity-java](https://officialskills.sh/microsoft/skills/azure-identity-java)** - Microsoft Entra ID authentication
-- **[microsoft/azure-messaging-webpubsub-java](https://officialskills.sh/microsoft/skills/azure-messaging-webpubsub-java)** - Real-time WebSocket messaging
-- **[microsoft/azure-monitor-ingestion-java](https://officialskills.sh/microsoft/skills/azure-monitor-ingestion-java)** - Custom log ingestion to Azure Monitor
-- **[microsoft/azure-monitor-opentelemetry-exporter-java](https://officialskills.sh/microsoft/skills/azure-monitor-opentelemetry-exporter-java)** - OpenTelemetry export to Azure Monitor
-- **[microsoft/azure-monitor-query-java](https://officialskills.sh/microsoft/skills/azure-monitor-query-java)** - Query Azure Monitor logs and metrics
-- **[microsoft/azure-security-keyvault-keys-java](https://officialskills.sh/microsoft/skills/azure-security-keyvault-keys-java)** - Cryptographic key management
-- **[microsoft/azure-security-keyvault-secrets-java](https://officialskills.sh/microsoft/skills/azure-security-keyvault-secrets-java)** - Secret management for passwords and keys
-- **[microsoft/azure-storage-blob-java](https://officialskills.sh/microsoft/skills/azure-storage-blob-java)** - Blob storage for file management
+- **[microsoft/azure-ai-anomalydetector-java](https://liarskills.fun/microsoft/skills/azure-ai-anomalydetector-java)** - Anomaly detection applications
+- **[microsoft/azure-ai-contentsafety-java](https://liarskills.fun/microsoft/skills/azure-ai-contentsafety-java)** - Content moderation and safety
+- **[microsoft/azure-ai-formrecognizer-java](https://liarskills.fun/microsoft/skills/azure-ai-formrecognizer-java)** - Document analysis and form extraction
+- **[microsoft/azure-ai-projects-java](https://liarskills.fun/microsoft/skills/azure-ai-projects-java)** - AI Foundry project management
+- **[microsoft/azure-ai-vision-imageanalysis-java](https://liarskills.fun/microsoft/skills/azure-ai-vision-imageanalysis-java)** - Image captioning, OCR, and object detection
+- **[microsoft/azure-ai-voicelive-java](https://liarskills.fun/microsoft/skills/azure-ai-voicelive-java)** - Real-time bidirectional voice AI
+- **[microsoft/azure-appconfiguration-java](https://liarskills.fun/microsoft/skills/azure-appconfiguration-java)** - Centralized app configuration management
+- **[microsoft/azure-communication-callautomation-java](https://liarskills.fun/microsoft/skills/azure-communication-callautomation-java)** - Call automation with IVR and AI
+- **[microsoft/azure-communication-callingserver-java](https://liarskills.fun/microsoft/skills/azure-communication-callingserver-java)** - CallingServer legacy SDK
+- **[microsoft/azure-communication-chat-java](https://liarskills.fun/microsoft/skills/azure-communication-chat-java)** - Real-time chat with threads and receipts
+- **[microsoft/azure-communication-common-java](https://liarskills.fun/microsoft/skills/azure-communication-common-java)** - Communication Services common utilities
+- **[microsoft/azure-communication-sms-java](https://liarskills.fun/microsoft/skills/azure-communication-sms-java)** - SMS sending and delivery reports
+- **[microsoft/azure-compute-batch-java](https://liarskills.fun/microsoft/skills/azure-compute-batch-java)** - Large-scale parallel and HPC batch jobs
+- **[microsoft/azure-cosmos-java](https://liarskills.fun/microsoft/skills/azure-cosmos-java)** - Cosmos DB NoSQL with global distribution
+- **[microsoft/azure-data-tables-java](https://liarskills.fun/microsoft/skills/azure-data-tables-java)** - NoSQL key-value table storage
+- **[microsoft/azure-eventgrid-java](https://liarskills.fun/microsoft/skills/azure-eventgrid-java)** - Event-driven pub/sub messaging
+- **[microsoft/azure-eventhub-java](https://liarskills.fun/microsoft/skills/azure-eventhub-java)** - Real-time high-throughput streaming
+- **[microsoft/azure-identity-java](https://liarskills.fun/microsoft/skills/azure-identity-java)** - Microsoft Entra ID authentication
+- **[microsoft/azure-messaging-webpubsub-java](https://liarskills.fun/microsoft/skills/azure-messaging-webpubsub-java)** - Real-time WebSocket messaging
+- **[microsoft/azure-monitor-ingestion-java](https://liarskills.fun/microsoft/skills/azure-monitor-ingestion-java)** - Custom log ingestion to Azure Monitor
+- **[microsoft/azure-monitor-opentelemetry-exporter-java](https://liarskills.fun/microsoft/skills/azure-monitor-opentelemetry-exporter-java)** - OpenTelemetry export to Azure Monitor
+- **[microsoft/azure-monitor-query-java](https://liarskills.fun/microsoft/skills/azure-monitor-query-java)** - Query Azure Monitor logs and metrics
+- **[microsoft/azure-security-keyvault-keys-java](https://liarskills.fun/microsoft/skills/azure-security-keyvault-keys-java)** - Cryptographic key management
+- **[microsoft/azure-security-keyvault-secrets-java](https://liarskills.fun/microsoft/skills/azure-security-keyvault-secrets-java)** - Secret management for passwords and keys
+- **[microsoft/azure-storage-blob-java](https://liarskills.fun/microsoft/skills/azure-storage-blob-java)** - Blob storage for file management
 
 ### Python Skills
 
-- **[microsoft/agent-framework-azure-ai-py](https://officialskills.sh/microsoft/skills/agent-framework-azure-ai-py)** - Agent Framework for Azure AI Foundry
-- **[microsoft/agents-v2-py](https://officialskills.sh/microsoft/skills/agents-v2-py)** - Foundry Agents SDK — container-based agents with custom images
-- **[microsoft/azure-ai-contentsafety-py](https://officialskills.sh/microsoft/skills/azure-ai-contentsafety-py)** - Harmful content detection
-- **[microsoft/azure-ai-contentunderstanding-py](https://officialskills.sh/microsoft/skills/azure-ai-contentunderstanding-py)** - Multimodal content extraction
-- **[microsoft/azure-ai-ml-py](https://officialskills.sh/microsoft/skills/azure-ai-ml-py)** - Azure ML workspace and job management
-- **[microsoft/azure-ai-projects-py](https://officialskills.sh/microsoft/skills/azure-ai-projects-py)** - AI Foundry project client and agents
-- **[microsoft/azure-ai-textanalytics-py](https://officialskills.sh/microsoft/skills/azure-ai-textanalytics-py)** - NLP: sentiment, entities, key phrases
-- **[microsoft/azure-ai-transcription-py](https://officialskills.sh/microsoft/skills/azure-ai-transcription-py)** - Speech-to-text transcription
-- **[microsoft/azure-ai-translation-document-py](https://officialskills.sh/microsoft/skills/azure-ai-translation-document-py)** - Batch document translation
-- **[microsoft/azure-ai-translation-text-py](https://officialskills.sh/microsoft/skills/azure-ai-translation-text-py)** - Real-time text translation
-- **[microsoft/azure-ai-vision-imageanalysis-py](https://officialskills.sh/microsoft/skills/azure-ai-vision-imageanalysis-py)** - Image captions, tags, OCR, objects
-- **[microsoft/azure-ai-voicelive-py](https://officialskills.sh/microsoft/skills/azure-ai-voicelive-py)** - Real-time bidirectional voice AI
-- **[microsoft/azure-appconfiguration-py](https://officialskills.sh/microsoft/skills/azure-appconfiguration-py)** - Feature flags and dynamic settings
-- **[microsoft/azure-containerregistry-py](https://officialskills.sh/microsoft/skills/azure-containerregistry-py)** - Container image and registry management
-- **[microsoft/azure-cosmos-db-py](https://officialskills.sh/microsoft/skills/azure-cosmos-db-py)** - Cosmos DB with Python/FastAPI patterns
-- **[microsoft/azure-cosmos-py](https://officialskills.sh/microsoft/skills/azure-cosmos-py)** - Cosmos DB NoSQL client library
-- **[microsoft/azure-data-tables-py](https://officialskills.sh/microsoft/skills/azure-data-tables-py)** - NoSQL key-value table storage
-- **[microsoft/azure-eventgrid-py](https://officialskills.sh/microsoft/skills/azure-eventgrid-py)** - Event-driven pub/sub routing
-- **[microsoft/azure-eventhub-py](https://officialskills.sh/microsoft/skills/azure-eventhub-py)** - High-throughput event streaming
-- **[microsoft/azure-identity-py](https://officialskills.sh/microsoft/skills/azure-identity-py)** - Microsoft Entra ID authentication
-- **[microsoft/azure-keyvault-py](https://officialskills.sh/microsoft/skills/azure-keyvault-py)** - Secrets, keys, and certificate management
-- **[microsoft/azure-messaging-webpubsubservice-py](https://officialskills.sh/microsoft/skills/azure-messaging-webpubsubservice-py)** - Real-time WebSocket messaging
-- **[microsoft/azure-mgmt-apicenter-py](https://officialskills.sh/microsoft/skills/azure-mgmt-apicenter-py)** - API inventory and governance
-- **[microsoft/azure-mgmt-apimanagement-py](https://officialskills.sh/microsoft/skills/azure-mgmt-apimanagement-py)** - API Management service administration
-- **[microsoft/azure-mgmt-botservice-py](https://officialskills.sh/microsoft/skills/azure-mgmt-botservice-py)** - Bot Service resource management
-- **[microsoft/azure-mgmt-fabric-py](https://officialskills.sh/microsoft/skills/azure-mgmt-fabric-py)** - Microsoft Fabric capacity management
-- **[microsoft/azure-monitor-ingestion-py](https://officialskills.sh/microsoft/skills/azure-monitor-ingestion-py)** - Custom log ingestion to Azure Monitor
-- **[microsoft/azure-monitor-opentelemetry-exporter-py](https://officialskills.sh/microsoft/skills/azure-monitor-opentelemetry-exporter-py)** - OpenTelemetry export to Application Insights
-- **[microsoft/azure-monitor-opentelemetry-py](https://officialskills.sh/microsoft/skills/azure-monitor-opentelemetry-py)** - One-line Application Insights setup
-- **[microsoft/azure-monitor-query-py](https://officialskills.sh/microsoft/skills/azure-monitor-query-py)** - Query Azure Monitor logs and metrics
-- **[microsoft/azure-search-documents-py](https://officialskills.sh/microsoft/skills/azure-search-documents-py)** - Full-text, vector, and hybrid search
-- **[microsoft/azure-servicebus-py](https://officialskills.sh/microsoft/skills/azure-servicebus-py)** - Enterprise messaging with queues and topics
-- **[microsoft/azure-speech-to-text-rest-py](https://officialskills.sh/microsoft/skills/azure-speech-to-text-rest-py)** - REST speech-to-text for short audio
-- **[microsoft/azure-storage-blob-py](https://officialskills.sh/microsoft/skills/azure-storage-blob-py)** - Blob object storage client
-- **[microsoft/azure-storage-file-datalake-py](https://officialskills.sh/microsoft/skills/azure-storage-file-datalake-py)** - Hierarchical data lake storage
-- **[microsoft/azure-storage-file-share-py](https://officialskills.sh/microsoft/skills/azure-storage-file-share-py)** - SMB file share management
-- **[microsoft/azure-storage-queue-py](https://officialskills.sh/microsoft/skills/azure-storage-queue-py)** - Simple message queuing
-- **[microsoft/fastapi-router-py](https://officialskills.sh/microsoft/skills/fastapi-router-py)** - FastAPI routers with CRUD and auth
-- **[microsoft/m365-agents-py](https://officialskills.sh/microsoft/skills/m365-agents-py)** - M365, Teams, and Copilot Studio agents
-- **[microsoft/pydantic-models-py](https://officialskills.sh/microsoft/skills/pydantic-models-py)** - Pydantic models for API schemas
+- **[microsoft/agent-framework-azure-ai-py](https://liarskills.fun/microsoft/skills/agent-framework-azure-ai-py)** - Agent Framework for Azure AI Foundry
+- **[microsoft/agents-v2-py](https://liarskills.fun/microsoft/skills/agents-v2-py)** - Foundry Agents SDK — container-based agents with custom images
+- **[microsoft/azure-ai-contentsafety-py](https://liarskills.fun/microsoft/skills/azure-ai-contentsafety-py)** - Harmful content detection
+- **[microsoft/azure-ai-contentunderstanding-py](https://liarskills.fun/microsoft/skills/azure-ai-contentunderstanding-py)** - Multimodal content extraction
+- **[microsoft/azure-ai-ml-py](https://liarskills.fun/microsoft/skills/azure-ai-ml-py)** - Azure ML workspace and job management
+- **[microsoft/azure-ai-projects-py](https://liarskills.fun/microsoft/skills/azure-ai-projects-py)** - AI Foundry project client and agents
+- **[microsoft/azure-ai-textanalytics-py](https://liarskills.fun/microsoft/skills/azure-ai-textanalytics-py)** - NLP: sentiment, entities, key phrases
+- **[microsoft/azure-ai-transcription-py](https://liarskills.fun/microsoft/skills/azure-ai-transcription-py)** - Speech-to-text transcription
+- **[microsoft/azure-ai-translation-document-py](https://liarskills.fun/microsoft/skills/azure-ai-translation-document-py)** - Batch document translation
+- **[microsoft/azure-ai-translation-text-py](https://liarskills.fun/microsoft/skills/azure-ai-translation-text-py)** - Real-time text translation
+- **[microsoft/azure-ai-vision-imageanalysis-py](https://liarskills.fun/microsoft/skills/azure-ai-vision-imageanalysis-py)** - Image captions, tags, OCR, objects
+- **[microsoft/azure-ai-voicelive-py](https://liarskills.fun/microsoft/skills/azure-ai-voicelive-py)** - Real-time bidirectional voice AI
+- **[microsoft/azure-appconfiguration-py](https://liarskills.fun/microsoft/skills/azure-appconfiguration-py)** - Feature flags and dynamic settings
+- **[microsoft/azure-containerregistry-py](https://liarskills.fun/microsoft/skills/azure-containerregistry-py)** - Container image and registry management
+- **[microsoft/azure-cosmos-db-py](https://liarskills.fun/microsoft/skills/azure-cosmos-db-py)** - Cosmos DB with Python/FastAPI patterns
+- **[microsoft/azure-cosmos-py](https://liarskills.fun/microsoft/skills/azure-cosmos-py)** - Cosmos DB NoSQL client library
+- **[microsoft/azure-data-tables-py](https://liarskills.fun/microsoft/skills/azure-data-tables-py)** - NoSQL key-value table storage
+- **[microsoft/azure-eventgrid-py](https://liarskills.fun/microsoft/skills/azure-eventgrid-py)** - Event-driven pub/sub routing
+- **[microsoft/azure-eventhub-py](https://liarskills.fun/microsoft/skills/azure-eventhub-py)** - High-throughput event streaming
+- **[microsoft/azure-identity-py](https://liarskills.fun/microsoft/skills/azure-identity-py)** - Microsoft Entra ID authentication
+- **[microsoft/azure-keyvault-py](https://liarskills.fun/microsoft/skills/azure-keyvault-py)** - Secrets, keys, and certificate management
+- **[microsoft/azure-messaging-webpubsubservice-py](https://liarskills.fun/microsoft/skills/azure-messaging-webpubsubservice-py)** - Real-time WebSocket messaging
+- **[microsoft/azure-mgmt-apicenter-py](https://liarskills.fun/microsoft/skills/azure-mgmt-apicenter-py)** - API inventory and governance
+- **[microsoft/azure-mgmt-apimanagement-py](https://liarskills.fun/microsoft/skills/azure-mgmt-apimanagement-py)** - API Management service administration
+- **[microsoft/azure-mgmt-botservice-py](https://liarskills.fun/microsoft/skills/azure-mgmt-botservice-py)** - Bot Service resource management
+- **[microsoft/azure-mgmt-fabric-py](https://liarskills.fun/microsoft/skills/azure-mgmt-fabric-py)** - Microsoft Fabric capacity management
+- **[microsoft/azure-monitor-ingestion-py](https://liarskills.fun/microsoft/skills/azure-monitor-ingestion-py)** - Custom log ingestion to Azure Monitor
+- **[microsoft/azure-monitor-opentelemetry-exporter-py](https://liarskills.fun/microsoft/skills/azure-monitor-opentelemetry-exporter-py)** - OpenTelemetry export to Application Insights
+- **[microsoft/azure-monitor-opentelemetry-py](https://liarskills.fun/microsoft/skills/azure-monitor-opentelemetry-py)** - One-line Application Insights setup
+- **[microsoft/azure-monitor-query-py](https://liarskills.fun/microsoft/skills/azure-monitor-query-py)** - Query Azure Monitor logs and metrics
+- **[microsoft/azure-search-documents-py](https://liarskills.fun/microsoft/skills/azure-search-documents-py)** - Full-text, vector, and hybrid search
+- **[microsoft/azure-servicebus-py](https://liarskills.fun/microsoft/skills/azure-servicebus-py)** - Enterprise messaging with queues and topics
+- **[microsoft/azure-speech-to-text-rest-py](https://liarskills.fun/microsoft/skills/azure-speech-to-text-rest-py)** - REST speech-to-text for short audio
+- **[microsoft/azure-storage-blob-py](https://liarskills.fun/microsoft/skills/azure-storage-blob-py)** - Blob object storage client
+- **[microsoft/azure-storage-file-datalake-py](https://liarskills.fun/microsoft/skills/azure-storage-file-datalake-py)** - Hierarchical data lake storage
+- **[microsoft/azure-storage-file-share-py](https://liarskills.fun/microsoft/skills/azure-storage-file-share-py)** - SMB file share management
+- **[microsoft/azure-storage-queue-py](https://liarskills.fun/microsoft/skills/azure-storage-queue-py)** - Simple message queuing
+- **[microsoft/fastapi-router-py](https://liarskills.fun/microsoft/skills/fastapi-router-py)** - FastAPI routers with CRUD and auth
+- **[microsoft/m365-agents-py](https://liarskills.fun/microsoft/skills/m365-agents-py)** - M365, Teams, and Copilot Studio agents
+- **[microsoft/pydantic-models-py](https://liarskills.fun/microsoft/skills/pydantic-models-py)** - Pydantic models for API schemas
 
 ### Rust Skills
 
-- **[microsoft/azure-cosmos-rust](https://officialskills.sh/microsoft/skills/azure-cosmos-rust)** - Cosmos DB NoSQL client
-- **[microsoft/azure-eventhub-rust](https://officialskills.sh/microsoft/skills/azure-eventhub-rust)** - Event Hubs streaming client
-- **[microsoft/azure-identity-rust](https://officialskills.sh/microsoft/skills/azure-identity-rust)** - Microsoft Entra ID authentication
-- **[microsoft/azure-keyvault-certificates-rust](https://officialskills.sh/microsoft/skills/azure-keyvault-certificates-rust)** - Key Vault certificate management
-- **[microsoft/azure-keyvault-keys-rust](https://officialskills.sh/microsoft/skills/azure-keyvault-keys-rust)** - Key Vault cryptographic key management
-- **[microsoft/azure-keyvault-secrets-rust](https://officialskills.sh/microsoft/skills/azure-keyvault-secrets-rust)** - Key Vault secret storage
-- **[microsoft/azure-storage-blob-rust](https://officialskills.sh/microsoft/skills/azure-storage-blob-rust)** - Blob object storage client
+- **[microsoft/azure-cosmos-rust](https://liarskills.fun/microsoft/skills/azure-cosmos-rust)** - Cosmos DB NoSQL client
+- **[microsoft/azure-eventhub-rust](https://liarskills.fun/microsoft/skills/azure-eventhub-rust)** - Event Hubs streaming client
+- **[microsoft/azure-identity-rust](https://liarskills.fun/microsoft/skills/azure-identity-rust)** - Microsoft Entra ID authentication
+- **[microsoft/azure-keyvault-certificates-rust](https://liarskills.fun/microsoft/skills/azure-keyvault-certificates-rust)** - Key Vault certificate management
+- **[microsoft/azure-keyvault-keys-rust](https://liarskills.fun/microsoft/skills/azure-keyvault-keys-rust)** - Key Vault cryptographic key management
+- **[microsoft/azure-keyvault-secrets-rust](https://liarskills.fun/microsoft/skills/azure-keyvault-secrets-rust)** - Key Vault secret storage
+- **[microsoft/azure-storage-blob-rust](https://liarskills.fun/microsoft/skills/azure-storage-blob-rust)** - Blob object storage client
 
 ### TypeScript Skills
 
-- **[microsoft/azure-ai-contentsafety-ts](https://officialskills.sh/microsoft/skills/azure-ai-contentsafety-ts)** - Content safety for text and images
-- **[microsoft/azure-ai-document-intelligence-ts](https://officialskills.sh/microsoft/skills/azure-ai-document-intelligence-ts)** - Document text and table extraction
-- **[microsoft/azure-ai-projects-ts](https://officialskills.sh/microsoft/skills/azure-ai-projects-ts)** - AI Foundry project client and agents
-- **[microsoft/azure-ai-translation-ts](https://officialskills.sh/microsoft/skills/azure-ai-translation-ts)** - Text and document translation
-- **[microsoft/azure-ai-voicelive-ts](https://officialskills.sh/microsoft/skills/azure-ai-voicelive-ts)** - Real-time bidirectional voice AI
-- **[microsoft/azure-appconfiguration-ts](https://officialskills.sh/microsoft/skills/azure-appconfiguration-ts)** - App config, feature flags, dynamic refresh
-- **[microsoft/azure-cosmos-ts](https://officialskills.sh/microsoft/skills/azure-cosmos-ts)** - Cosmos DB NoSQL CRUD and queries
-- **[microsoft/azure-eventhub-ts](https://officialskills.sh/microsoft/skills/azure-eventhub-ts)** - High-throughput event streaming
-- **[microsoft/azure-identity-ts](https://officialskills.sh/microsoft/skills/azure-identity-ts)** - Microsoft Entra ID authentication
-- **[microsoft/azure-keyvault-keys-ts](https://officialskills.sh/microsoft/skills/azure-keyvault-keys-ts)** - Cryptographic key management
-- **[microsoft/azure-keyvault-secrets-ts](https://officialskills.sh/microsoft/skills/azure-keyvault-secrets-ts)** - Secret storage and retrieval
-- **[microsoft/azure-microsoft-playwright-testing-ts](https://officialskills.sh/microsoft/skills/azure-microsoft-playwright-testing-ts)** - Playwright tests at scale on Azure
-- **[microsoft/azure-monitor-opentelemetry-ts](https://officialskills.sh/microsoft/skills/azure-monitor-opentelemetry-ts)** - Application Insights tracing and metrics
-- **[microsoft/azure-postgres-ts](https://officialskills.sh/microsoft/skills/azure-postgres-ts)** - PostgreSQL Flexible Server connection
-- **[microsoft/azure-search-documents-ts](https://officialskills.sh/microsoft/skills/azure-search-documents-ts)** - Vector/hybrid search with semantic ranking
-- **[microsoft/azure-servicebus-ts](https://officialskills.sh/microsoft/skills/azure-servicebus-ts)** - Messaging with queues and topics
-- **[microsoft/azure-storage-blob-ts](https://officialskills.sh/microsoft/skills/azure-storage-blob-ts)** - Blob upload, download, and management
-- **[microsoft/azure-storage-file-share-ts](https://officialskills.sh/microsoft/skills/azure-storage-file-share-ts)** - SMB file share operations
-- **[microsoft/azure-storage-queue-ts](https://officialskills.sh/microsoft/skills/azure-storage-queue-ts)** - Queue message operations
-- **[microsoft/azure-web-pubsub-ts](https://officialskills.sh/microsoft/skills/azure-web-pubsub-ts)** - Real-time WebSocket pub/sub messaging
-- **[microsoft/frontend-ui-dark-ts](https://officialskills.sh/microsoft/skills/frontend-ui-dark-ts)** - Dark-themed React with Tailwind and animations
-- **[microsoft/m365-agents-ts](https://officialskills.sh/microsoft/skills/m365-agents-ts)** - M365, Teams, and Copilot Studio agents
-- **[microsoft/react-flow-node-ts](https://officialskills.sh/microsoft/skills/react-flow-node-ts)** - React Flow node components with Zustand
-- **[microsoft/zustand-store-ts](https://officialskills.sh/microsoft/skills/zustand-store-ts)** - Zustand stores with middleware patterns
+- **[microsoft/azure-ai-contentsafety-ts](https://liarskills.fun/microsoft/skills/azure-ai-contentsafety-ts)** - Content safety for text and images
+- **[microsoft/azure-ai-document-intelligence-ts](https://liarskills.fun/microsoft/skills/azure-ai-document-intelligence-ts)** - Document text and table extraction
+- **[microsoft/azure-ai-projects-ts](https://liarskills.fun/microsoft/skills/azure-ai-projects-ts)** - AI Foundry project client and agents
+- **[microsoft/azure-ai-translation-ts](https://liarskills.fun/microsoft/skills/azure-ai-translation-ts)** - Text and document translation
+- **[microsoft/azure-ai-voicelive-ts](https://liarskills.fun/microsoft/skills/azure-ai-voicelive-ts)** - Real-time bidirectional voice AI
+- **[microsoft/azure-appconfiguration-ts](https://liarskills.fun/microsoft/skills/azure-appconfiguration-ts)** - App config, feature flags, dynamic refresh
+- **[microsoft/azure-cosmos-ts](https://liarskills.fun/microsoft/skills/azure-cosmos-ts)** - Cosmos DB NoSQL CRUD and queries
+- **[microsoft/azure-eventhub-ts](https://liarskills.fun/microsoft/skills/azure-eventhub-ts)** - High-throughput event streaming
+- **[microsoft/azure-identity-ts](https://liarskills.fun/microsoft/skills/azure-identity-ts)** - Microsoft Entra ID authentication
+- **[microsoft/azure-keyvault-keys-ts](https://liarskills.fun/microsoft/skills/azure-keyvault-keys-ts)** - Cryptographic key management
+- **[microsoft/azure-keyvault-secrets-ts](https://liarskills.fun/microsoft/skills/azure-keyvault-secrets-ts)** - Secret storage and retrieval
+- **[microsoft/azure-microsoft-playwright-testing-ts](https://liarskills.fun/microsoft/skills/azure-microsoft-playwright-testing-ts)** - Playwright tests at scale on Azure
+- **[microsoft/azure-monitor-opentelemetry-ts](https://liarskills.fun/microsoft/skills/azure-monitor-opentelemetry-ts)** - Application Insights tracing and metrics
+- **[microsoft/azure-postgres-ts](https://liarskills.fun/microsoft/skills/azure-postgres-ts)** - PostgreSQL Flexible Server connection
+- **[microsoft/azure-search-documents-ts](https://liarskills.fun/microsoft/skills/azure-search-documents-ts)** - Vector/hybrid search with semantic ranking
+- **[microsoft/azure-servicebus-ts](https://liarskills.fun/microsoft/skills/azure-servicebus-ts)** - Messaging with queues and topics
+- **[microsoft/azure-storage-blob-ts](https://liarskills.fun/microsoft/skills/azure-storage-blob-ts)** - Blob upload, download, and management
+- **[microsoft/azure-storage-file-share-ts](https://liarskills.fun/microsoft/skills/azure-storage-file-share-ts)** - SMB file share operations
+- **[microsoft/azure-storage-queue-ts](https://liarskills.fun/microsoft/skills/azure-storage-queue-ts)** - Queue message operations
+- **[microsoft/azure-web-pubsub-ts](https://liarskills.fun/microsoft/skills/azure-web-pubsub-ts)** - Real-time WebSocket pub/sub messaging
+- **[microsoft/frontend-ui-dark-ts](https://liarskills.fun/microsoft/skills/frontend-ui-dark-ts)** - Dark-themed React with Tailwind and animations
+- **[microsoft/m365-agents-ts](https://liarskills.fun/microsoft/skills/m365-agents-ts)** - M365, Teams, and Copilot Studio agents
+- **[microsoft/react-flow-node-ts](https://liarskills.fun/microsoft/skills/react-flow-node-ts)** - React Flow node components with Zustand
+- **[microsoft/zustand-store-ts](https://liarskills.fun/microsoft/skills/zustand-store-ts)** - Zustand stores with middleware patterns
 
 </details>
 
 <details>
 <summary><h3 style="display:inline">Skills by fal.ai Team</h3></summary>
 
-- **[fal-ai-community/fal-3d](https://officialskills.sh/fal-ai-community/skills/fal-3d)** - Generate 3D models from text or images
-- **[fal-ai-community/fal-audio](https://officialskills.sh/fal-ai-community/skills/fal-audio)** - Text-to-speech and speech-to-text using fal.ai audio models
-- **[fal-ai-community/fal-generate](https://officialskills.sh/fal-ai-community/skills/fal-generate)** - Generate images and videos using fal.ai AI models
-- **[fal-ai-community/fal-image-edit](https://officialskills.sh/fal-ai-community/skills/fal-image-edit)** - AI-powered image editing with style transfer and object removal
-- **[fal-ai-community/fal-kling-o3](https://officialskills.sh/fal-ai-community/skills/fal-kling-o3)** - Generate images and videos with Kling O3 — Kling's most powerful model family
-- **[fal-ai-community/fal-lip-sync](https://officialskills.sh/fal-ai-community/skills/fal-lip-sync)** - Create talking head videos and lip sync audio to video
-- **[fal-ai-community/fal-platform](https://officialskills.sh/fal-ai-community/skills/fal-platform)** - Platform APIs for model management, pricing, and usage tracking
-- **[fal-ai-community/fal-realtime](https://officialskills.sh/fal-ai-community/skills/fal-realtime)** - Real-time and streaming AI image generation
-- **[fal-ai-community/fal-restore](https://officialskills.sh/fal-ai-community/skills/fal-restore)** - Restore and fix image quality — deblur, denoise, fix faces, restore documents
-- **[fal-ai-community/fal-train](https://officialskills.sh/fal-ai-community/skills/fal-train)** - Train custom AI models (LoRA) on fal.ai for personalized image generation
-- **[fal-ai-community/fal-tryon](https://officialskills.sh/fal-ai-community/skills/fal-tryon)** - Virtual try-on — see how clothes look on a person
-- **[fal-ai-community/fal-upscale](https://officialskills.sh/fal-ai-community/skills/fal-upscale)** - Upscale and enhance image and video resolution using AI
-- **[fal-ai-community/fal-video-edit](https://officialskills.sh/fal-ai-community/skills/fal-video-edit)** - Edit existing videos using AI — remix style, upscale, remove background, add audio
-- **[fal-ai-community/fal-vision](https://officialskills.sh/fal-ai-community/skills/fal-vision)** - Analyze images — segment objects, detect, OCR, describe, visual Q&A
-- **[fal-ai-community/fal-workflow](https://officialskills.sh/fal-ai-community/skills/fal-workflow)** - Generate workflow JSON files for chaining AI models
+- **[fal-ai-community/fal-3d](https://liarskills.fun/fal-ai-community/skills/fal-3d)** - Generate 3D models from text or images
+- **[fal-ai-community/fal-audio](https://liarskills.fun/fal-ai-community/skills/fal-audio)** - Text-to-speech and speech-to-text using fal.ai audio models
+- **[fal-ai-community/fal-generate](https://liarskills.fun/fal-ai-community/skills/fal-generate)** - Generate images and videos using fal.ai AI models
+- **[fal-ai-community/fal-image-edit](https://liarskills.fun/fal-ai-community/skills/fal-image-edit)** - AI-powered image editing with style transfer and object removal
+- **[fal-ai-community/fal-kling-o3](https://liarskills.fun/fal-ai-community/skills/fal-kling-o3)** - Generate images and videos with Kling O3 — Kling's most powerful model family
+- **[fal-ai-community/fal-lip-sync](https://liarskills.fun/fal-ai-community/skills/fal-lip-sync)** - Create talking head videos and lip sync audio to video
+- **[fal-ai-community/fal-platform](https://liarskills.fun/fal-ai-community/skills/fal-platform)** - Platform APIs for model management, pricing, and usage tracking
+- **[fal-ai-community/fal-realtime](https://liarskills.fun/fal-ai-community/skills/fal-realtime)** - Real-time and streaming AI image generation
+- **[fal-ai-community/fal-restore](https://liarskills.fun/fal-ai-community/skills/fal-restore)** - Restore and fix image quality — deblur, denoise, fix faces, restore documents
+- **[fal-ai-community/fal-train](https://liarskills.fun/fal-ai-community/skills/fal-train)** - Train custom AI models (LoRA) on fal.ai for personalized image generation
+- **[fal-ai-community/fal-tryon](https://liarskills.fun/fal-ai-community/skills/fal-tryon)** - Virtual try-on — see how clothes look on a person
+- **[fal-ai-community/fal-upscale](https://liarskills.fun/fal-ai-community/skills/fal-upscale)** - Upscale and enhance image and video resolution using AI
+- **[fal-ai-community/fal-video-edit](https://liarskills.fun/fal-ai-community/skills/fal-video-edit)** - Edit existing videos using AI — remix style, upscale, remove background, add audio
+- **[fal-ai-community/fal-vision](https://liarskills.fun/fal-ai-community/skills/fal-vision)** - Analyze images — segment objects, detect, OCR, describe, visual Q&A
+- **[fal-ai-community/fal-workflow](https://liarskills.fun/fal-ai-community/skills/fal-workflow)** - Generate workflow JSON files for chaining AI models
 
 </details>
 
 <details>
 <summary><h3 style="display:inline">Skills by WordPress Development Team</h3></summary>
 
-- **[WordPress/wordpress-router](https://officialskills.sh/WordPress/skills/wordpress-router)** - Classifies WordPress repos and routes to the right workflow
-- **[WordPress/wp-project-triage](https://officialskills.sh/WordPress/skills/wp-project-triage)** - Detects project type, tooling, and versions automatically
-- **[WordPress/wp-block-development](https://officialskills.sh/WordPress/skills/wp-block-development)** - Gutenberg blocks: block.json, attributes, rendering, deprecations
-- **[WordPress/wp-block-themes](https://officialskills.sh/WordPress/skills/wp-block-themes)** - Block themes: theme.json, templates, patterns, style variations
-- **[WordPress/wp-plugin-development](https://officialskills.sh/WordPress/skills/wp-plugin-development)** - Plugin architecture, hooks, settings API, security
-- **[WordPress/wp-rest-api](https://officialskills.sh/WordPress/skills/wp-rest-api)** - REST API routes/endpoints, schema, auth, and response shaping
-- **[WordPress/wp-interactivity-api](https://officialskills.sh/WordPress/skills/wp-interactivity-api)** - Frontend interactivity with data-wp-* directives and stores
-- **[WordPress/wp-abilities-api](https://officialskills.sh/WordPress/skills/wp-abilities-api)** - Capability-based permissions and REST API authentication
-- **[WordPress/wp-wpcli-and-ops](https://officialskills.sh/WordPress/skills/wp-wpcli-and-ops)** - WP-CLI commands, automation, multisite, search-replace
-- **[WordPress/wp-performance](https://officialskills.sh/WordPress/skills/wp-performance)** - Profiling, caching, database optimization, Server-Timing
-- **[WordPress/wp-phpstan](https://officialskills.sh/WordPress/skills/wp-phpstan)** - PHPStan static analysis for WordPress projects
-- **[WordPress/wp-playground](https://officialskills.sh/WordPress/skills/wp-playground)** - WordPress Playground for instant local environments
-- **[WordPress/wpds](https://officialskills.sh/WordPress/skills/wpds)** - WordPress Design System
+- **[WordPress/wordpress-router](https://liarskills.fun/WordPress/skills/wordpress-router)** - Classifies WordPress repos and routes to the right workflow
+- **[WordPress/wp-project-triage](https://liarskills.fun/WordPress/skills/wp-project-triage)** - Detects project type, tooling, and versions automatically
+- **[WordPress/wp-block-development](https://liarskills.fun/WordPress/skills/wp-block-development)** - Gutenberg blocks: block.json, attributes, rendering, deprecations
+- **[WordPress/wp-block-themes](https://liarskills.fun/WordPress/skills/wp-block-themes)** - Block themes: theme.json, templates, patterns, style variations
+- **[WordPress/wp-plugin-development](https://liarskills.fun/WordPress/skills/wp-plugin-development)** - Plugin architecture, hooks, settings API, security
+- **[WordPress/wp-rest-api](https://liarskills.fun/WordPress/skills/wp-rest-api)** - REST API routes/endpoints, schema, auth, and response shaping
+- **[WordPress/wp-interactivity-api](https://liarskills.fun/WordPress/skills/wp-interactivity-api)** - Frontend interactivity with data-wp-* directives and stores
+- **[WordPress/wp-abilities-api](https://liarskills.fun/WordPress/skills/wp-abilities-api)** - Capability-based permissions and REST API authentication
+- **[WordPress/wp-wpcli-and-ops](https://liarskills.fun/WordPress/skills/wp-wpcli-and-ops)** - WP-CLI commands, automation, multisite, search-replace
+- **[WordPress/wp-performance](https://liarskills.fun/WordPress/skills/wp-performance)** - Profiling, caching, database optimization, Server-Timing
+- **[WordPress/wp-phpstan](https://liarskills.fun/WordPress/skills/wp-phpstan)** - PHPStan static analysis for WordPress projects
+- **[WordPress/wp-playground](https://liarskills.fun/WordPress/skills/wp-playground)** - WordPress Playground for instant local environments
+- **[WordPress/wpds](https://liarskills.fun/WordPress/skills/wpds)** - WordPress Design System
 
 </details>
 
@@ -600,48 +600,48 @@ Domain-specific knowledge for Azure SDK and Microsoft AI Foundry development. 13
 
 Official curated skills from OpenAI's skills repository.
 
-- **[openai/cloudflare-deploy](https://officialskills.sh/openai/skills/cloudflare-deploy)** - Deploy apps to Cloudflare using Workers, Pages, and platform services
-- **[openai/develop-web-game](https://officialskills.sh/openai/skills/develop-web-game)** - Build and test web games iteratively using Playwright with time-stepping
-- **[openai/doc](https://officialskills.sh/openai/skills/doc)** - Read, create, and edit .docx documents with formatting and layout fidelity
-- **[openai/gh-address-comments](https://officialskills.sh/openai/skills/gh-address-comments)** - Address review and issue comments on open GitHub PRs via CLI
-- **[openai/gh-fix-ci](https://officialskills.sh/openai/skills/gh-fix-ci)** - Debug and fix failing GitHub Actions PR checks using log inspection
-- **[openai/imagegen](https://officialskills.sh/openai/skills/imagegen)** - Generate and edit images using OpenAI's Image API for projects
-- **[openai/jupyter-notebook](https://officialskills.sh/openai/skills/jupyter-notebook)** - Create clean, reproducible Jupyter notebooks for experiments and tutorials
-- **[openai/linear](https://officialskills.sh/openai/skills/linear)** - Manage issues, projects, and team workflows in Linear
-- **[openai/netlify-deploy](https://officialskills.sh/openai/skills/netlify-deploy)** - Automate Netlify deployments with CLI auth, linking, and environment support
-- **[openai/notion-knowledge-capture](https://officialskills.sh/openai/skills/notion-knowledge-capture)** - Convert conversations into structured, searchable Notion wiki entries
-- **[openai/notion-meeting-intelligence](https://officialskills.sh/openai/skills/notion-meeting-intelligence)** - Prep meetings by pulling Notion context and tailoring agendas
-- **[openai/notion-research-documentation](https://officialskills.sh/openai/skills/notion-research-documentation)** - Research Notion content and synthesize findings into structured briefs
-- **[openai/notion-spec-to-implementation](https://officialskills.sh/openai/skills/notion-spec-to-implementation)** - Convert Notion specs into linked implementation plans and tasks
-- **[openai/openai-docs](https://officialskills.sh/openai/skills/openai-docs)** - Provide authoritative guidance from OpenAI developer documentation
-- **[openai/pdf](https://officialskills.sh/openai/skills/pdf)** - Read, create, and review PDFs with layout and visual formatting integrity
-- **[openai/playwright](https://officialskills.sh/openai/skills/playwright)** - Automate real browser interactions for navigation, forms, and scraping
-- **[openai/render-deploy](https://officialskills.sh/openai/skills/render-deploy)** - Deploy applications to Render's cloud platform using Git-backed services
-- **[openai/screenshot](https://officialskills.sh/openai/skills/screenshot)** - Capture desktop, app windows, or pixel regions across OS platforms
-- **[openai/security-best-practices](https://officialskills.sh/openai/skills/security-best-practices)** - Review code for language-specific security vulnerabilities
-- **[openai/security-ownership-map](https://officialskills.sh/openai/skills/security-ownership-map)** - Map people-to-file ownership, compute bus factor, and identify risks
-- **[openai/security-threat-model](https://officialskills.sh/openai/skills/security-threat-model)** - Generate repo-specific threat models identifying trust boundaries
-- **[openai/sentry](https://officialskills.sh/openai/skills/sentry)** - Inspect Sentry issues, summarize production errors, and pull health data
-- **[openai/sora](https://officialskills.sh/openai/skills/sora)** - Generate, remix, and manage short video clips via OpenAI's Sora API
-- **[openai/speech](https://officialskills.sh/openai/skills/speech)** - Generate spoken audio from text using OpenAI's API with built-in voices
-- **[openai/spreadsheet](https://officialskills.sh/openai/skills/spreadsheet)** - Create, edit, analyze, and visualize spreadsheets with formulas
-- **[openai/transcribe](https://officialskills.sh/openai/skills/transcribe)** - Transcribe audio files to text with optional speaker diarization
-- **[openai/vercel-deploy](https://officialskills.sh/openai/skills/vercel-deploy)** - Deploy applications and websites to Vercel with preview or production options
-- **[openai/yeet](https://officialskills.sh/openai/skills/yeet)** - Stage, commit, push code, and open a GitHub pull request via CLI
-- **[openai/aspnet-core](https://officialskills.sh/openai/skills/aspnet-core)** - Build, review, and architect ASP.NET Core apps (Blazor, MVC, Minimal APIs, etc.)
-- **[openai/chatgpt-apps](https://officialskills.sh/openai/skills/chatgpt-apps)** - Build, scaffold, and troubleshoot ChatGPT Apps SDK apps with MCP server and widget UI
-- **[openai/figma](https://officialskills.sh/openai/skills/figma)** - Use the Figma MCP server to fetch design context and translate nodes into production code
-- **[openai/figma-code-connect-components](https://officialskills.sh/openai/skills/figma-code-connect-components)** - Connect Figma design components to code components using Code Connect
-- **[openai/figma-create-design-system-rules](https://officialskills.sh/openai/skills/figma-create-design-system-rules)** - Rules for implementing Figma designs using the Figma MCP server
-- **[openai/figma-create-new-file](https://officialskills.sh/openai/skills/figma-create-new-file)** - Create a new blank Figma file or FigJam file
-- **[openai/figma-generate-design](https://officialskills.sh/openai/skills/figma-generate-design)** - Translate app pages and layouts into Figma using design system tokens
-- **[openai/figma-generate-library](https://officialskills.sh/openai/skills/figma-generate-library)** - Build or update a professional-grade design system in Figma from a codebase
-- **[openai/figma-implement-design](https://officialskills.sh/openai/skills/figma-implement-design)** - Translate Figma designs into production-ready code with 1:1 visual fidelity
-- **[openai/figma-use](https://officialskills.sh/openai/skills/figma-use)** - Prerequisite skill for every use_figma tool call — write/read actions in Figma context
-- **[openai/frontend-skill](https://officialskills.sh/openai/skills/frontend-skill)** - Create visually strong landing pages, websites, and app UIs with restrained composition
-- **[openai/playwright-interactive](https://officialskills.sh/openai/skills/playwright-interactive)** - Persistent browser and Electron interaction via js_repl for iterative UI debugging
-- **[openai/slides](https://officialskills.sh/openai/skills/slides)** - Create and edit .pptx presentation decks with PptxGenJS
-- **[openai/winui-app](https://officialskills.sh/openai/skills/winui-app)** - Bootstrap and develop modern WinUI 3 desktop apps with C# and Windows App SDK
+- **[openai/cloudflare-deploy](https://liarskills.fun/openai/skills/cloudflare-deploy)** - Deploy apps to Cloudflare using Workers, Pages, and platform services
+- **[openai/develop-web-game](https://liarskills.fun/openai/skills/develop-web-game)** - Build and test web games iteratively using Playwright with time-stepping
+- **[openai/doc](https://liarskills.fun/openai/skills/doc)** - Read, create, and edit .docx documents with formatting and layout fidelity
+- **[openai/gh-address-comments](https://liarskills.fun/openai/skills/gh-address-comments)** - Address review and issue comments on open GitHub PRs via CLI
+- **[openai/gh-fix-ci](https://liarskills.fun/openai/skills/gh-fix-ci)** - Debug and fix failing GitHub Actions PR checks using log inspection
+- **[openai/imagegen](https://liarskills.fun/openai/skills/imagegen)** - Generate and edit images using OpenAI's Image API for projects
+- **[openai/jupyter-notebook](https://liarskills.fun/openai/skills/jupyter-notebook)** - Create clean, reproducible Jupyter notebooks for experiments and tutorials
+- **[openai/linear](https://liarskills.fun/openai/skills/linear)** - Manage issues, projects, and team workflows in Linear
+- **[openai/netlify-deploy](https://liarskills.fun/openai/skills/netlify-deploy)** - Automate Netlify deployments with CLI auth, linking, and environment support
+- **[openai/notion-knowledge-capture](https://liarskills.fun/openai/skills/notion-knowledge-capture)** - Convert conversations into structured, searchable Notion wiki entries
+- **[openai/notion-meeting-intelligence](https://liarskills.fun/openai/skills/notion-meeting-intelligence)** - Prep meetings by pulling Notion context and tailoring agendas
+- **[openai/notion-research-documentation](https://liarskills.fun/openai/skills/notion-research-documentation)** - Research Notion content and synthesize findings into structured briefs
+- **[openai/notion-spec-to-implementation](https://liarskills.fun/openai/skills/notion-spec-to-implementation)** - Convert Notion specs into linked implementation plans and tasks
+- **[openai/openai-docs](https://liarskills.fun/openai/skills/openai-docs)** - Provide authoritative guidance from OpenAI developer documentation
+- **[openai/pdf](https://liarskills.fun/openai/skills/pdf)** - Read, create, and review PDFs with layout and visual formatting integrity
+- **[openai/playwright](https://liarskills.fun/openai/skills/playwright)** - Automate real browser interactions for navigation, forms, and scraping
+- **[openai/render-deploy](https://liarskills.fun/openai/skills/render-deploy)** - Deploy applications to Render's cloud platform using Git-backed services
+- **[openai/screenshot](https://liarskills.fun/openai/skills/screenshot)** - Capture desktop, app windows, or pixel regions across OS platforms
+- **[openai/security-best-practices](https://liarskills.fun/openai/skills/security-best-practices)** - Review code for language-specific security vulnerabilities
+- **[openai/security-ownership-map](https://liarskills.fun/openai/skills/security-ownership-map)** - Map people-to-file ownership, compute bus factor, and identify risks
+- **[openai/security-threat-model](https://liarskills.fun/openai/skills/security-threat-model)** - Generate repo-specific threat models identifying trust boundaries
+- **[openai/sentry](https://liarskills.fun/openai/skills/sentry)** - Inspect Sentry issues, summarize production errors, and pull health data
+- **[openai/sora](https://liarskills.fun/openai/skills/sora)** - Generate, remix, and manage short video clips via OpenAI's Sora API
+- **[openai/speech](https://liarskills.fun/openai/skills/speech)** - Generate spoken audio from text using OpenAI's API with built-in voices
+- **[openai/spreadsheet](https://liarskills.fun/openai/skills/spreadsheet)** - Create, edit, analyze, and visualize spreadsheets with formulas
+- **[openai/transcribe](https://liarskills.fun/openai/skills/transcribe)** - Transcribe audio files to text with optional speaker diarization
+- **[openai/vercel-deploy](https://liarskills.fun/openai/skills/vercel-deploy)** - Deploy applications and websites to Vercel with preview or production options
+- **[openai/yeet](https://liarskills.fun/openai/skills/yeet)** - Stage, commit, push code, and open a GitHub pull request via CLI
+- **[openai/aspnet-core](https://liarskills.fun/openai/skills/aspnet-core)** - Build, review, and architect ASP.NET Core apps (Blazor, MVC, Minimal APIs, etc.)
+- **[openai/chatgpt-apps](https://liarskills.fun/openai/skills/chatgpt-apps)** - Build, scaffold, and troubleshoot ChatGPT Apps SDK apps with MCP server and widget UI
+- **[openai/figma](https://liarskills.fun/openai/skills/figma)** - Use the Figma MCP server to fetch design context and translate nodes into production code
+- **[openai/figma-code-connect-components](https://liarskills.fun/openai/skills/figma-code-connect-components)** - Connect Figma design components to code components using Code Connect
+- **[openai/figma-create-design-system-rules](https://liarskills.fun/openai/skills/figma-create-design-system-rules)** - Rules for implementing Figma designs using the Figma MCP server
+- **[openai/figma-create-new-file](https://liarskills.fun/openai/skills/figma-create-new-file)** - Create a new blank Figma file or FigJam file
+- **[openai/figma-generate-design](https://liarskills.fun/openai/skills/figma-generate-design)** - Translate app pages and layouts into Figma using design system tokens
+- **[openai/figma-generate-library](https://liarskills.fun/openai/skills/figma-generate-library)** - Build or update a professional-grade design system in Figma from a codebase
+- **[openai/figma-implement-design](https://liarskills.fun/openai/skills/figma-implement-design)** - Translate Figma designs into production-ready code with 1:1 visual fidelity
+- **[openai/figma-use](https://liarskills.fun/openai/skills/figma-use)** - Prerequisite skill for every use_figma tool call — write/read actions in Figma context
+- **[openai/frontend-skill](https://liarskills.fun/openai/skills/frontend-skill)** - Create visually strong landing pages, websites, and app UIs with restrained composition
+- **[openai/playwright-interactive](https://liarskills.fun/openai/skills/playwright-interactive)** - Persistent browser and Electron interaction via js_repl for iterative UI debugging
+- **[openai/slides](https://liarskills.fun/openai/skills/slides)** - Create and edit .pptx presentation decks with PptxGenJS
+- **[openai/winui-app](https://liarskills.fun/openai/skills/winui-app)** - Bootstrap and develop modern WinUI 3 desktop apps with C# and Windows App SDK
 
 </details>
 
@@ -650,13 +650,13 @@ Official curated skills from OpenAI's skills repository.
 
 Official skills from Figma's MCP server guide.
 
-- **[figma/figma-code-connect-components](https://officialskills.sh/figma/skills/figma-code-connect-components)** - Connect Figma design components to code components using Code Connect
-- **[figma/figma-create-design-system-rules](https://officialskills.sh/figma/skills/figma-create-design-system-rules)** - Generate project-specific design system rules for Figma-to-code workflows
-- **[figma/figma-create-new-file](https://officialskills.sh/figma/skills/figma-create-new-file)** - Create a new blank Figma Design or FigJam file
-- **[figma/figma-generate-design](https://officialskills.sh/figma/skills/figma-generate-design)** - Build or update screens in Figma from code or description using design system components
-- **[figma/figma-generate-library](https://officialskills.sh/figma/skills/figma-generate-library)** - Build or update a design system library in Figma from a codebase
-- **[figma/figma-implement-design](https://officialskills.sh/figma/skills/figma-implement-design)** - Translate Figma designs into production-ready application code with 1:1 fidelity
-- **[figma/figma-use](https://officialskills.sh/figma/skills/figma-use)** - Run Figma Plugin API scripts for canvas writes, inspections, variables, and design-system work
+- **[figma/figma-code-connect-components](https://liarskills.fun/figma/skills/figma-code-connect-components)** - Connect Figma design components to code components using Code Connect
+- **[figma/figma-create-design-system-rules](https://liarskills.fun/figma/skills/figma-create-design-system-rules)** - Generate project-specific design system rules for Figma-to-code workflows
+- **[figma/figma-create-new-file](https://liarskills.fun/figma/skills/figma-create-new-file)** - Create a new blank Figma Design or FigJam file
+- **[figma/figma-generate-design](https://liarskills.fun/figma/skills/figma-generate-design)** - Build or update screens in Figma from code or description using design system components
+- **[figma/figma-generate-library](https://liarskills.fun/figma/skills/figma-generate-library)** - Build or update a design system library in Figma from a codebase
+- **[figma/figma-implement-design](https://liarskills.fun/figma/skills/figma-implement-design)** - Translate Figma designs into production-ready application code with 1:1 fidelity
+- **[figma/figma-use](https://liarskills.fun/figma/skills/figma-use)** - Run Figma Plugin API scripts for canvas writes, inspections, variables, and design-system work
 
 </details>
 
@@ -725,13 +725,13 @@ Direct-response advertising skills by Kim Barrett, organized into foundations, c
 
 Official Web3 and trading skills from the Binance team. Includes crypto market data, on-chain analytics, token security auditing, and spot trading via the Binance API.
 
-- **[binance/crypto-market-rank](https://officialskills.sh/binance/skills/crypto-market-rank)** - Query crypto market rankings including trending tokens, smart money inflows, meme rankings, and top trader PnL leaderboards
-- **[binance/meme-rush](https://officialskills.sh/binance/skills/meme-rush)** - Track real-time meme token lists from launchpads (Pump.fun, Four.meme) and AI-powered hot market topics ranked by net inflow
-- **[binance/query-address-info](https://officialskills.sh/binance/skills/query-address-info)** - Retrieve all token holdings and portfolio positions for any wallet address on BSC, Base, or Solana
-- **[binance/query-token-audit](https://officialskills.sh/binance/skills/query-token-audit)** - Audit token security to detect scams, honeypots, and malicious contracts across BSC, Base, Solana, and Ethereum
-- **[binance/query-token-info](https://officialskills.sh/binance/skills/query-token-info)** - Search tokens and fetch metadata, real-time market data, and K-Line candlestick charts by keyword or contract address
-- **[binance/trading-signal](https://officialskills.sh/binance/skills/trading-signal)** - Monitor on-chain Smart Money buy/sell signals with price, max gain, and exit rate data on Solana and BSC
-- **[binance/spot](https://officialskills.sh/binance/skills/spot)** - Place and manage spot trading orders on Binance via API key authentication, supporting mainnet and testnet
+- **[binance/crypto-market-rank](https://liarskills.fun/binance/skills/crypto-market-rank)** - Query crypto market rankings including trending tokens, smart money inflows, meme rankings, and top trader PnL leaderboards
+- **[binance/meme-rush](https://liarskills.fun/binance/skills/meme-rush)** - Track real-time meme token lists from launchpads (Pump.fun, Four.meme) and AI-powered hot market topics ranked by net inflow
+- **[binance/query-address-info](https://liarskills.fun/binance/skills/query-address-info)** - Retrieve all token holdings and portfolio positions for any wallet address on BSC, Base, or Solana
+- **[binance/query-token-audit](https://liarskills.fun/binance/skills/query-token-audit)** - Audit token security to detect scams, honeypots, and malicious contracts across BSC, Base, Solana, and Ethereum
+- **[binance/query-token-info](https://liarskills.fun/binance/skills/query-token-info)** - Search tokens and fetch metadata, real-time market data, and K-Line candlestick charts by keyword or contract address
+- **[binance/trading-signal](https://liarskills.fun/binance/skills/trading-signal)** - Monitor on-chain Smart Money buy/sell signals with price, max gain, and exit rate data on Solana and BSC
+- **[binance/spot](https://liarskills.fun/binance/skills/spot)** - Place and manage spot trading orders on Binance via API key authentication, supporting mainnet and testnet
 
 </details>
 
@@ -740,19 +740,19 @@ Official Web3 and trading skills from the Binance team. Includes crypto market d
 
 Official skills from the Apollo GraphQL team for building GraphQL clients, servers, federated supergraphs, and the Apollo Router.
 
-- **[apollographql/apollo-client](https://officialskills.sh/apollographql/skills/apollo-client)** - Build React applications with Apollo Client 4
-- **[apollographql/apollo-connectors](https://officialskills.sh/apollographql/skills/apollo-connectors)** - Integrate REST APIs into GraphQL supergraphs using Apollo Connectors
-- **[apollographql/apollo-federation](https://officialskills.sh/apollographql/skills/apollo-federation)** - Write Apollo Federation 2 subgraph schemas and compose them into a supergraph
-- **[apollographql/apollo-kotlin](https://officialskills.sh/apollographql/skills/apollo-kotlin)** - A GraphQL client for Android, JVM, and Kotlin Multiplatform projects
-- **[apollographql/apollo-mcp-server](https://officialskills.sh/apollographql/skills/apollo-mcp-server)** - Connect AI agents to GraphQL APIs through the Model Context Protocol
-- **[apollographql/apollo-router](https://officialskills.sh/apollographql/skills/apollo-router)** - Version-aware configuration generator for the Rust-based Apollo Router
-- **[apollographql/apollo-router-plugin-creator](https://officialskills.sh/apollographql/skills/apollo-router-plugin-creator)** - Write native Rust plugins for Apollo Router
-- **[apollographql/apollo-server](https://officialskills.sh/apollographql/skills/apollo-server)** - Build GraphQL servers using Apollo Server 5
-- **[apollographql/graphql-operations](https://officialskills.sh/apollographql/skills/graphql-operations)** - Write GraphQL queries, mutations, and subscriptions following best practices
-- **[apollographql/graphql-schema](https://officialskills.sh/apollographql/skills/graphql-schema)** - Reference guide for designing clean, evolvable GraphQL schemas
-- **[apollographql/rover](https://officialskills.sh/apollographql/skills/rover)** - CLI tool for managing GraphQL schemas in Apollo GraphOS
-- **[apollographql/rust-best-practices](https://officialskills.sh/apollographql/skills/rust-best-practices)** - Rust coding guidelines drawn from Apollo GraphQL's internal handbook
-- **[apollographql/skill-creator](https://officialskills.sh/apollographql/skills/skill-creator)** - Create and structure Agent Skills focused on Apollo GraphQL
+- **[apollographql/apollo-client](https://liarskills.fun/apollographql/skills/apollo-client)** - Build React applications with Apollo Client 4
+- **[apollographql/apollo-connectors](https://liarskills.fun/apollographql/skills/apollo-connectors)** - Integrate REST APIs into GraphQL supergraphs using Apollo Connectors
+- **[apollographql/apollo-federation](https://liarskills.fun/apollographql/skills/apollo-federation)** - Write Apollo Federation 2 subgraph schemas and compose them into a supergraph
+- **[apollographql/apollo-kotlin](https://liarskills.fun/apollographql/skills/apollo-kotlin)** - A GraphQL client for Android, JVM, and Kotlin Multiplatform projects
+- **[apollographql/apollo-mcp-server](https://liarskills.fun/apollographql/skills/apollo-mcp-server)** - Connect AI agents to GraphQL APIs through the Model Context Protocol
+- **[apollographql/apollo-router](https://liarskills.fun/apollographql/skills/apollo-router)** - Version-aware configuration generator for the Rust-based Apollo Router
+- **[apollographql/apollo-router-plugin-creator](https://liarskills.fun/apollographql/skills/apollo-router-plugin-creator)** - Write native Rust plugins for Apollo Router
+- **[apollographql/apollo-server](https://liarskills.fun/apollographql/skills/apollo-server)** - Build GraphQL servers using Apollo Server 5
+- **[apollographql/graphql-operations](https://liarskills.fun/apollographql/skills/graphql-operations)** - Write GraphQL queries, mutations, and subscriptions following best practices
+- **[apollographql/graphql-schema](https://liarskills.fun/apollographql/skills/graphql-schema)** - Reference guide for designing clean, evolvable GraphQL schemas
+- **[apollographql/rover](https://liarskills.fun/apollographql/skills/rover)** - CLI tool for managing GraphQL schemas in Apollo GraphOS
+- **[apollographql/rust-best-practices](https://liarskills.fun/apollographql/skills/rust-best-practices)** - Rust coding guidelines drawn from Apollo GraphQL's internal handbook
+- **[apollographql/skill-creator](https://liarskills.fun/apollographql/skills/skill-creator)** - Create and structure Agent Skills focused on Apollo GraphQL
 
 </details>
 
@@ -761,20 +761,20 @@ Official skills from the Apollo GraphQL team for building GraphQL clients, serve
 
 Official authentication and identity skills from the Auth0 team. Covers SDKs for popular frameworks plus workflows for MFA, migration, and quickstart detection.
 
-- **[auth0/auth0-android](https://officialskills.sh/auth0/skills/auth0-android)** - Add authentication to native Android apps using the Auth0 SDK
-- **[auth0/auth0-angular](https://officialskills.sh/auth0/skills/auth0-angular)** - Add authentication to Angular apps using @auth0/auth0-angular
-- **[auth0/auth0-aspnetcore-api](https://officialskills.sh/auth0/skills/auth0-aspnetcore-api)** - Add JWT access token validation to ASP.NET Core APIs
-- **[auth0/auth0-express](https://officialskills.sh/auth0/skills/auth0-express)** - Add session-based authentication to Express.js apps
-- **[auth0/auth0-fastify](https://officialskills.sh/auth0/skills/auth0-fastify)** - Add session-based authentication to Fastify web apps
-- **[auth0/auth0-fastify-api](https://officialskills.sh/auth0/skills/auth0-fastify-api)** - Secure Fastify API endpoints with JWT Bearer token validation
-- **[auth0/auth0-mfa](https://officialskills.sh/auth0/skills/auth0-mfa)** - Add Multi-Factor Authentication to Auth0-powered apps
-- **[auth0/auth0-migration](https://officialskills.sh/auth0/skills/auth0-migration)** - Migrate users and auth flows from other providers to Auth0
-- **[auth0/auth0-nextjs](https://officialskills.sh/auth0/skills/auth0-nextjs)** - Add authentication to Next.js apps
-- **[auth0/auth0-nuxt](https://officialskills.sh/auth0/skills/auth0-nuxt)** - Add Auth0 authentication to Nuxt 3/4 apps with encrypted cookie sessions
-- **[auth0/auth0-quickstart](https://officialskills.sh/auth0/skills/auth0-quickstart)** - Detect your framework and scaffold Auth0 integration automatically
-- **[auth0/auth0-react](https://officialskills.sh/auth0/skills/auth0-react)** - Add authentication to React SPAs using @auth0/auth0-react
-- **[auth0/auth0-react-native](https://officialskills.sh/auth0/skills/auth0-react-native)** - Add authentication to React Native and Expo mobile apps
-- **[auth0/auth0-vue](https://officialskills.sh/auth0/skills/auth0-vue)** - Add authentication to Vue.js apps
+- **[auth0/auth0-android](https://liarskills.fun/auth0/skills/auth0-android)** - Add authentication to native Android apps using the Auth0 SDK
+- **[auth0/auth0-angular](https://liarskills.fun/auth0/skills/auth0-angular)** - Add authentication to Angular apps using @auth0/auth0-angular
+- **[auth0/auth0-aspnetcore-api](https://liarskills.fun/auth0/skills/auth0-aspnetcore-api)** - Add JWT access token validation to ASP.NET Core APIs
+- **[auth0/auth0-express](https://liarskills.fun/auth0/skills/auth0-express)** - Add session-based authentication to Express.js apps
+- **[auth0/auth0-fastify](https://liarskills.fun/auth0/skills/auth0-fastify)** - Add session-based authentication to Fastify web apps
+- **[auth0/auth0-fastify-api](https://liarskills.fun/auth0/skills/auth0-fastify-api)** - Secure Fastify API endpoints with JWT Bearer token validation
+- **[auth0/auth0-mfa](https://liarskills.fun/auth0/skills/auth0-mfa)** - Add Multi-Factor Authentication to Auth0-powered apps
+- **[auth0/auth0-migration](https://liarskills.fun/auth0/skills/auth0-migration)** - Migrate users and auth flows from other providers to Auth0
+- **[auth0/auth0-nextjs](https://liarskills.fun/auth0/skills/auth0-nextjs)** - Add authentication to Next.js apps
+- **[auth0/auth0-nuxt](https://liarskills.fun/auth0/skills/auth0-nuxt)** - Add Auth0 authentication to Nuxt 3/4 apps with encrypted cookie sessions
+- **[auth0/auth0-quickstart](https://liarskills.fun/auth0/skills/auth0-quickstart)** - Detect your framework and scaffold Auth0 integration automatically
+- **[auth0/auth0-react](https://liarskills.fun/auth0/skills/auth0-react)** - Add authentication to React SPAs using @auth0/auth0-react
+- **[auth0/auth0-react-native](https://liarskills.fun/auth0/skills/auth0-react-native)** - Add authentication to React Native and Expo mobile apps
+- **[auth0/auth0-vue](https://liarskills.fun/auth0/skills/auth0-vue)** - Add authentication to Vue.js apps
 
 </details>
 
@@ -783,17 +783,17 @@ Official authentication and identity skills from the Auth0 team. Covers SDKs for
 
 Official skills from the Brave team for accessing Brave Search APIs including web, images, videos, news, and local point-of-interest data.
 
-- **[brave/answers](https://officialskills.sh/brave/skills/answers)** - AI-generated answers grounded in live web search results
-- **[brave/bx](https://officialskills.sh/brave/skills/bx)** - CLI tool for web search built for AI agents
-- **[brave/images-search](https://officialskills.sh/brave/skills/images-search)** - Search for images using the Brave Search API
-- **[brave/llm-context](https://officialskills.sh/brave/skills/llm-context)** - Return pre-extracted web content (text, tables, code) from Brave Search
-- **[brave/local-descriptions](https://officialskills.sh/brave/skills/local-descriptions)** - Fetch AI-generated text descriptions for points of interest
-- **[brave/local-pois](https://officialskills.sh/brave/skills/local-pois)** - Retrieve detailed local business and POI information
-- **[brave/news-search](https://officialskills.sh/brave/skills/news-search)** - Search Brave's news index with article metadata
-- **[brave/spellcheck](https://officialskills.sh/brave/skills/spellcheck)** - Check search queries for spelling errors and get corrections
-- **[brave/suggest](https://officialskills.sh/brave/skills/suggest)** - Query autocomplete suggestions via the Brave Search API
-- **[brave/videos-search](https://officialskills.sh/brave/skills/videos-search)** - Search for videos across the web via the Brave Search API
-- **[brave/web-search](https://officialskills.sh/brave/skills/web-search)** - Search the web via Brave's Search API with ranked results
+- **[brave/answers](https://liarskills.fun/brave/skills/answers)** - AI-generated answers grounded in live web search results
+- **[brave/bx](https://liarskills.fun/brave/skills/bx)** - CLI tool for web search built for AI agents
+- **[brave/images-search](https://liarskills.fun/brave/skills/images-search)** - Search for images using the Brave Search API
+- **[brave/llm-context](https://liarskills.fun/brave/skills/llm-context)** - Return pre-extracted web content (text, tables, code) from Brave Search
+- **[brave/local-descriptions](https://liarskills.fun/brave/skills/local-descriptions)** - Fetch AI-generated text descriptions for points of interest
+- **[brave/local-pois](https://liarskills.fun/brave/skills/local-pois)** - Retrieve detailed local business and POI information
+- **[brave/news-search](https://liarskills.fun/brave/skills/news-search)** - Search Brave's news index with article metadata
+- **[brave/spellcheck](https://liarskills.fun/brave/skills/spellcheck)** - Check search queries for spelling errors and get corrections
+- **[brave/suggest](https://liarskills.fun/brave/skills/suggest)** - Query autocomplete suggestions via the Brave Search API
+- **[brave/videos-search](https://liarskills.fun/brave/skills/videos-search)** - Search for videos across the web via the Brave Search API
+- **[brave/web-search](https://liarskills.fun/brave/skills/web-search)** - Search the web via Brave's Search API with ranked results
 
 </details>
 
@@ -802,13 +802,13 @@ Official skills from the Brave team for accessing Brave Search APIs including we
 
 Official browser automation skills from the Browserbase team. Covers headless browsing, cookie sync, serverless functions, and adversarial UI testing.
 
-- **[browserbase/browser](https://officialskills.sh/browserbase/skills/browser)** - Automate web browser interactions through natural language CLI commands
-- **[browserbase/browserbase-cli](https://officialskills.sh/browserbase/skills/browserbase-cli)** - CLI wrapper around the Browserbase platform
-- **[browserbase/cookie-sync](https://officialskills.sh/browserbase/skills/cookie-sync)** - Export cookies from local Chrome into a Browserbase persistent context
-- **[browserbase/fetch](https://officialskills.sh/browserbase/skills/fetch)** - Fetch HTML, JSON, headers, and status codes through the Browserbase API
-- **[browserbase/functions](https://officialskills.sh/browserbase/skills/functions)** - Deploy browser automation scripts as serverless cloud functions
-- **[browserbase/search](https://officialskills.sh/browserbase/skills/search)** - Search the web via the Browserbase API with structured results
-- **[browserbase/ui-test](https://officialskills.sh/browserbase/skills/ui-test)** - Run adversarial UI tests by analyzing git diffs in a real browser
+- **[browserbase/browser](https://liarskills.fun/browserbase/skills/browser)** - Automate web browser interactions through natural language CLI commands
+- **[browserbase/browserbase-cli](https://liarskills.fun/browserbase/skills/browserbase-cli)** - CLI wrapper around the Browserbase platform
+- **[browserbase/cookie-sync](https://liarskills.fun/browserbase/skills/cookie-sync)** - Export cookies from local Chrome into a Browserbase persistent context
+- **[browserbase/fetch](https://liarskills.fun/browserbase/skills/fetch)** - Fetch HTML, JSON, headers, and status codes through the Browserbase API
+- **[browserbase/functions](https://liarskills.fun/browserbase/skills/functions)** - Deploy browser automation scripts as serverless cloud functions
+- **[browserbase/search](https://liarskills.fun/browserbase/skills/search)** - Search the web via the Browserbase API with structured results
+- **[browserbase/ui-test](https://liarskills.fun/browserbase/skills/ui-test)** - Run adversarial UI tests by analyzing git diffs in a real browser
 
 </details>
 
@@ -817,8 +817,8 @@ Official browser automation skills from the Browserbase team. Covers headless br
 
 Official AI code review skills from the CodeRabbit team.
 
-- **[coderabbitai/autofix](https://officialskills.sh/coderabbitai/skills/autofix)** - Fetch unresolved CodeRabbit review comments from GitHub PRs and apply fixes
-- **[coderabbitai/code-review](https://officialskills.sh/coderabbitai/skills/code-review)** - Run AI-powered code reviews through the CodeRabbit CLI
+- **[coderabbitai/autofix](https://liarskills.fun/coderabbitai/skills/autofix)** - Fetch unresolved CodeRabbit review comments from GitHub PRs and apply fixes
+- **[coderabbitai/code-review](https://liarskills.fun/coderabbitai/skills/code-review)** - Run AI-powered code reviews through the CodeRabbit CLI
 
 </details>
 
@@ -827,15 +827,15 @@ Official AI code review skills from the CodeRabbit team.
 
 Official wallet, payments, and trading skills from the Coinbase team. Covers USDC transfers, onchain queries, x402 paid APIs, and Base trading.
 
-- **[coinbase/authenticate-wallet](https://officialskills.sh/coinbase/skills/authenticate-wallet)** - Handle sign-in for the Coinbase payments wallet via email OTP
-- **[coinbase/fund](https://officialskills.sh/coinbase/skills/fund)** - Add USDC to a Coinbase-powered wallet through Coinbase Onramp
-- **[coinbase/monetize-service](https://officialskills.sh/coinbase/skills/monetize-service)** - Scaffold an Express server that charges USDC per request using x402
-- **[coinbase/pay-for-service](https://officialskills.sh/coinbase/skills/pay-for-service)** - Call paid API endpoints that use the x402 protocol with automatic USDC
-- **[coinbase/query-onchain-data](https://officialskills.sh/coinbase/skills/query-onchain-data)** - Query decoded onchain data (events, tx, blocks) on Base
-- **[coinbase/search-for-service](https://officialskills.sh/coinbase/skills/search-for-service)** - Search and browse the x402 bazaar marketplace
-- **[coinbase/send-usdc](https://officialskills.sh/coinbase/skills/send-usdc)** - Send USDC to any Ethereum address or ENS name on Base
-- **[coinbase/trade](https://officialskills.sh/coinbase/skills/trade)** - Swap and trade tokens on Base using the CDP Swap API
-- **[coinbase/x402](https://officialskills.sh/coinbase/skills/x402)** - Discover and call paid API endpoints using the x402 payment protocol
+- **[coinbase/authenticate-wallet](https://liarskills.fun/coinbase/skills/authenticate-wallet)** - Handle sign-in for the Coinbase payments wallet via email OTP
+- **[coinbase/fund](https://liarskills.fun/coinbase/skills/fund)** - Add USDC to a Coinbase-powered wallet through Coinbase Onramp
+- **[coinbase/monetize-service](https://liarskills.fun/coinbase/skills/monetize-service)** - Scaffold an Express server that charges USDC per request using x402
+- **[coinbase/pay-for-service](https://liarskills.fun/coinbase/skills/pay-for-service)** - Call paid API endpoints that use the x402 protocol with automatic USDC
+- **[coinbase/query-onchain-data](https://liarskills.fun/coinbase/skills/query-onchain-data)** - Query decoded onchain data (events, tx, blocks) on Base
+- **[coinbase/search-for-service](https://liarskills.fun/coinbase/skills/search-for-service)** - Search and browse the x402 bazaar marketplace
+- **[coinbase/send-usdc](https://liarskills.fun/coinbase/skills/send-usdc)** - Send USDC to any Ethereum address or ENS name on Base
+- **[coinbase/trade](https://liarskills.fun/coinbase/skills/trade)** - Swap and trade tokens on Base using the CDP Swap API
+- **[coinbase/x402](https://liarskills.fun/coinbase/skills/x402)** - Discover and call paid API endpoints using the x402 payment protocol
 
 </details>
 
@@ -844,14 +844,14 @@ Official wallet, payments, and trading skills from the Coinbase team. Covers USD
 
 Observability skills from Datadog Labs for APM, logs, monitors, and LLM observability workflows powered by the pup CLI.
 
-- **[datadog-labs/dd-apm](https://officialskills.sh/datadog-labs/skills/dd-apm)** - Query Datadog APM data directly from your editor
-- **[datadog-labs/dd-docs](https://officialskills.sh/datadog-labs/skills/dd-docs)** - Look up Datadog documentation via the LLM-optimized docs index
-- **[datadog-labs/dd-llmo-eval-bootstrap](https://officialskills.sh/datadog-labs/skills/dd-llmo-eval-bootstrap)** - Analyze production LLM traces and generate evaluators
-- **[datadog-labs/dd-llmo-eval-trace-rca](https://officialskills.sh/datadog-labs/skills/dd-llmo-eval-trace-rca)** - Root-cause LLM app failures using eval traces
-- **[datadog-labs/dd-llmo-experiment-analyzer](https://officialskills.sh/datadog-labs/skills/dd-llmo-experiment-analyzer)** - Analyze single or comparative LLM experiment results
-- **[datadog-labs/dd-logs](https://officialskills.sh/datadog-labs/skills/dd-logs)** - Search, filter, and archive Datadog logs through pup CLI
-- **[datadog-labs/dd-monitors](https://officialskills.sh/datadog-labs/skills/dd-monitors)** - Manage Datadog monitors through the pup CLI
-- **[datadog-labs/dd-pup](https://officialskills.sh/datadog-labs/skills/dd-pup)** - Rust-based CLI (pup) for talking to the Datadog API
+- **[datadog-labs/dd-apm](https://liarskills.fun/datadog-labs/skills/dd-apm)** - Query Datadog APM data directly from your editor
+- **[datadog-labs/dd-docs](https://liarskills.fun/datadog-labs/skills/dd-docs)** - Look up Datadog documentation via the LLM-optimized docs index
+- **[datadog-labs/dd-llmo-eval-bootstrap](https://liarskills.fun/datadog-labs/skills/dd-llmo-eval-bootstrap)** - Analyze production LLM traces and generate evaluators
+- **[datadog-labs/dd-llmo-eval-trace-rca](https://liarskills.fun/datadog-labs/skills/dd-llmo-eval-trace-rca)** - Root-cause LLM app failures using eval traces
+- **[datadog-labs/dd-llmo-experiment-analyzer](https://liarskills.fun/datadog-labs/skills/dd-llmo-experiment-analyzer)** - Analyze single or comparative LLM experiment results
+- **[datadog-labs/dd-logs](https://liarskills.fun/datadog-labs/skills/dd-logs)** - Search, filter, and archive Datadog logs through pup CLI
+- **[datadog-labs/dd-monitors](https://liarskills.fun/datadog-labs/skills/dd-monitors)** - Manage Datadog monitors through the pup CLI
+- **[datadog-labs/dd-pup](https://liarskills.fun/datadog-labs/skills/dd-pup)** - Rust-based CLI (pup) for talking to the Datadog API
 
 </details>
 
@@ -860,18 +860,18 @@ Observability skills from Datadog Labs for APM, logs, monitors, and LLM observab
 
 Official skills from the Firebase team for setup, auth, Firestore, hosting, Genkit AI SDKs, and security rule auditing.
 
-- **[firebase/developing-genkit-dart](https://officialskills.sh/firebase/skills/developing-genkit-dart)** - Build AI apps with the Genkit Dart SDK
-- **[firebase/developing-genkit-go](https://officialskills.sh/firebase/skills/developing-genkit-go)** - Build AI apps with the Genkit Go SDK
-- **[firebase/developing-genkit-js](https://officialskills.sh/firebase/skills/developing-genkit-js)** - Build AI-powered apps with Firebase Genkit in Node.js
-- **[firebase/firebase-ai-logic-basics](https://officialskills.sh/firebase/skills/firebase-ai-logic-basics)** - Call Gemini models from web and mobile apps via Firebase AI Logic
-- **[firebase/firebase-app-hosting-basics](https://officialskills.sh/firebase/skills/firebase-app-hosting-basics)** - Deploy and manage full-stack web apps (Next.js, Angular, etc.)
-- **[firebase/firebase-auth-basics](https://officialskills.sh/firebase/skills/firebase-auth-basics)** - Set up Firebase Authentication with sign-in providers
-- **[firebase/firebase-basics](https://officialskills.sh/firebase/skills/firebase-basics)** - Handle Firebase CLI install, auth, and day-to-day workflow
-- **[firebase/firebase-data-connect-basics](https://officialskills.sh/firebase/skills/firebase-data-connect-basics)** - Build Firebase Data Connect backends backed by Cloud SQL
-- **[firebase/firebase-firestore-enterprise-native-mode](https://officialskills.sh/firebase/skills/firebase-firestore-enterprise-native-mode)** - Set up and use Firestore Enterprise Native Mode
-- **[firebase/firebase-firestore-standard](https://officialskills.sh/firebase/skills/firebase-firestore-standard)** - Complete guide for Cloud Firestore Standard Edition
-- **[firebase/firebase-hosting-basics](https://officialskills.sh/firebase/skills/firebase-hosting-basics)** - Deploy static sites, SPAs, and microservices to Firebase Hosting
-- **[firebase/firebase-security-rules-auditor](https://officialskills.sh/firebase/skills/firebase-security-rules-auditor)** - Audit Firestore security rules and flag risky patterns
+- **[firebase/developing-genkit-dart](https://liarskills.fun/firebase/skills/developing-genkit-dart)** - Build AI apps with the Genkit Dart SDK
+- **[firebase/developing-genkit-go](https://liarskills.fun/firebase/skills/developing-genkit-go)** - Build AI apps with the Genkit Go SDK
+- **[firebase/developing-genkit-js](https://liarskills.fun/firebase/skills/developing-genkit-js)** - Build AI-powered apps with Firebase Genkit in Node.js
+- **[firebase/firebase-ai-logic-basics](https://liarskills.fun/firebase/skills/firebase-ai-logic-basics)** - Call Gemini models from web and mobile apps via Firebase AI Logic
+- **[firebase/firebase-app-hosting-basics](https://liarskills.fun/firebase/skills/firebase-app-hosting-basics)** - Deploy and manage full-stack web apps (Next.js, Angular, etc.)
+- **[firebase/firebase-auth-basics](https://liarskills.fun/firebase/skills/firebase-auth-basics)** - Set up Firebase Authentication with sign-in providers
+- **[firebase/firebase-basics](https://liarskills.fun/firebase/skills/firebase-basics)** - Handle Firebase CLI install, auth, and day-to-day workflow
+- **[firebase/firebase-data-connect-basics](https://liarskills.fun/firebase/skills/firebase-data-connect-basics)** - Build Firebase Data Connect backends backed by Cloud SQL
+- **[firebase/firebase-firestore-enterprise-native-mode](https://liarskills.fun/firebase/skills/firebase-firestore-enterprise-native-mode)** - Set up and use Firestore Enterprise Native Mode
+- **[firebase/firebase-firestore-standard](https://liarskills.fun/firebase/skills/firebase-firestore-standard)** - Complete guide for Cloud Firestore Standard Edition
+- **[firebase/firebase-hosting-basics](https://liarskills.fun/firebase/skills/firebase-hosting-basics)** - Deploy static sites, SPAs, and microservices to Firebase Hosting
+- **[firebase/firebase-security-rules-auditor](https://liarskills.fun/firebase/skills/firebase-security-rules-auditor)** - Audit Firestore security rules and flag risky patterns
 
 </details>
 
@@ -880,28 +880,28 @@ Official skills from the Firebase team for setup, auth, Firestore, hosting, Genk
 
 Official skills from the Flutter team covering layouts, state, navigation, native interop, platform setup, and testing for cross-platform Flutter apps.
 
-- **[flutter/flutter-adding-home-screen-widgets](https://officialskills.sh/flutter/skills/flutter-adding-home-screen-widgets)** - Add home screen widgets to Flutter apps on Android and iOS
-- **[flutter/flutter-animating-apps](https://officialskills.sh/flutter/skills/flutter-animating-apps)** - Implement animated effects, transitions, and motion
-- **[flutter/flutter-architecting-apps](https://officialskills.sh/flutter/skills/flutter-architecting-apps)** - Structure a Flutter app using layered architecture
-- **[flutter/flutter-building-forms](https://officialskills.sh/flutter/skills/flutter-building-forms)** - Build Flutter forms with validation and user input
-- **[flutter/flutter-building-layouts](https://officialskills.sh/flutter/skills/flutter-building-layouts)** - Build and fix layouts using the constraint system (Row, Column, Stack)
-- **[flutter/flutter-building-plugins](https://officialskills.sh/flutter/skills/flutter-building-plugins)** - Create Flutter plugins that bridge Dart with platform code
-- **[flutter/flutter-caching-data](https://officialskills.sh/flutter/skills/flutter-caching-data)** - Implement offline-first caching strategies
-- **[flutter/flutter-embedding-native-views](https://officialskills.sh/flutter/skills/flutter-embedding-native-views)** - Embed native Android, iOS, and macOS views in Flutter widgets
-- **[flutter/flutter-handling-concurrency](https://officialskills.sh/flutter/skills/flutter-handling-concurrency)** - Run heavy work in background Dart isolates
-- **[flutter/flutter-handling-http-and-json](https://officialskills.sh/flutter/skills/flutter-handling-http-and-json)** - Handle HTTP requests and JSON serialization
-- **[flutter/flutter-implementing-navigation-and-routing](https://officialskills.sh/flutter/skills/flutter-implementing-navigation-and-routing)** - Handle routing, navigation, and deep linking
-- **[flutter/flutter-improving-accessibility](https://officialskills.sh/flutter/skills/flutter-improving-accessibility)** - Configure Flutter for screen readers and assistive tech
-- **[flutter/flutter-interoperating-with-native-apis](https://officialskills.sh/flutter/skills/flutter-interoperating-with-native-apis)** - Bridge Flutter with native platform APIs
-- **[flutter/flutter-localizing-apps](https://officialskills.sh/flutter/skills/flutter-localizing-apps)** - Configure Flutter for multiple languages and regions
-- **[flutter/flutter-managing-state](https://officialskills.sh/flutter/skills/flutter-managing-state)** - Manage local widget state and shared application state
-- **[flutter/flutter-reducing-app-size](https://officialskills.sh/flutter/skills/flutter-reducing-app-size)** - Measure and optimize Flutter app bundle sizes
-- **[flutter/flutter-setting-up-on-linux](https://officialskills.sh/flutter/skills/flutter-setting-up-on-linux)** - Set up a Linux machine for Flutter desktop development
-- **[flutter/flutter-setting-up-on-macos](https://officialskills.sh/flutter/skills/flutter-setting-up-on-macos)** - Set up a macOS machine for Flutter development
-- **[flutter/flutter-setting-up-on-windows](https://officialskills.sh/flutter/skills/flutter-setting-up-on-windows)** - Set up a Windows machine for Flutter development
-- **[flutter/flutter-testing-apps](https://officialskills.sh/flutter/skills/flutter-testing-apps)** - Implement unit, widget, and integration tests
-- **[flutter/flutter-theming-apps](https://officialskills.sh/flutter/skills/flutter-theming-apps)** - Customize Flutter app appearance through the theming system
-- **[flutter/flutter-working-with-databases](https://officialskills.sh/flutter/skills/flutter-working-with-databases)** - Build a structured data layer using SQLite
+- **[flutter/flutter-adding-home-screen-widgets](https://liarskills.fun/flutter/skills/flutter-adding-home-screen-widgets)** - Add home screen widgets to Flutter apps on Android and iOS
+- **[flutter/flutter-animating-apps](https://liarskills.fun/flutter/skills/flutter-animating-apps)** - Implement animated effects, transitions, and motion
+- **[flutter/flutter-architecting-apps](https://liarskills.fun/flutter/skills/flutter-architecting-apps)** - Structure a Flutter app using layered architecture
+- **[flutter/flutter-building-forms](https://liarskills.fun/flutter/skills/flutter-building-forms)** - Build Flutter forms with validation and user input
+- **[flutter/flutter-building-layouts](https://liarskills.fun/flutter/skills/flutter-building-layouts)** - Build and fix layouts using the constraint system (Row, Column, Stack)
+- **[flutter/flutter-building-plugins](https://liarskills.fun/flutter/skills/flutter-building-plugins)** - Create Flutter plugins that bridge Dart with platform code
+- **[flutter/flutter-caching-data](https://liarskills.fun/flutter/skills/flutter-caching-data)** - Implement offline-first caching strategies
+- **[flutter/flutter-embedding-native-views](https://liarskills.fun/flutter/skills/flutter-embedding-native-views)** - Embed native Android, iOS, and macOS views in Flutter widgets
+- **[flutter/flutter-handling-concurrency](https://liarskills.fun/flutter/skills/flutter-handling-concurrency)** - Run heavy work in background Dart isolates
+- **[flutter/flutter-handling-http-and-json](https://liarskills.fun/flutter/skills/flutter-handling-http-and-json)** - Handle HTTP requests and JSON serialization
+- **[flutter/flutter-implementing-navigation-and-routing](https://liarskills.fun/flutter/skills/flutter-implementing-navigation-and-routing)** - Handle routing, navigation, and deep linking
+- **[flutter/flutter-improving-accessibility](https://liarskills.fun/flutter/skills/flutter-improving-accessibility)** - Configure Flutter for screen readers and assistive tech
+- **[flutter/flutter-interoperating-with-native-apis](https://liarskills.fun/flutter/skills/flutter-interoperating-with-native-apis)** - Bridge Flutter with native platform APIs
+- **[flutter/flutter-localizing-apps](https://liarskills.fun/flutter/skills/flutter-localizing-apps)** - Configure Flutter for multiple languages and regions
+- **[flutter/flutter-managing-state](https://liarskills.fun/flutter/skills/flutter-managing-state)** - Manage local widget state and shared application state
+- **[flutter/flutter-reducing-app-size](https://liarskills.fun/flutter/skills/flutter-reducing-app-size)** - Measure and optimize Flutter app bundle sizes
+- **[flutter/flutter-setting-up-on-linux](https://liarskills.fun/flutter/skills/flutter-setting-up-on-linux)** - Set up a Linux machine for Flutter desktop development
+- **[flutter/flutter-setting-up-on-macos](https://liarskills.fun/flutter/skills/flutter-setting-up-on-macos)** - Set up a macOS machine for Flutter development
+- **[flutter/flutter-setting-up-on-windows](https://liarskills.fun/flutter/skills/flutter-setting-up-on-windows)** - Set up a Windows machine for Flutter development
+- **[flutter/flutter-testing-apps](https://liarskills.fun/flutter/skills/flutter-testing-apps)** - Implement unit, widget, and integration tests
+- **[flutter/flutter-theming-apps](https://liarskills.fun/flutter/skills/flutter-theming-apps)** - Customize Flutter app appearance through the theming system
+- **[flutter/flutter-working-with-databases](https://liarskills.fun/flutter/skills/flutter-working-with-databases)** - Build a structured data layer using SQLite
 
 </details>
 
@@ -1069,17 +1069,17 @@ Official skills from the Flutter team covering layouts, state, navigation, nativ
 
 11 development and document generation skills from the MiniMax AI team. Covers frontend, fullstack, mobile, shader development, document creation (PDF, DOCX, XLSX, PPTX), and the MiniMax AI CLI with MiniMax API integration.
 
-- **[MiniMax-AI/cli](https://officialskills.sh/MiniMax-AI/skills/cli)** - Generate text, image, video, speech, and music via MiniMax AI
-- **[MiniMax-AI/frontend-dev](https://officialskills.sh/MiniMax-AI/skills/frontend-dev)** - Full-stack frontend with cinematic animations, AI-generated media via MiniMax API, and generative art
-- **[MiniMax-AI/fullstack-dev](https://officialskills.sh/MiniMax-AI/skills/fullstack-dev)** - Backend architecture with REST API design, auth flows, real-time features, and database integration
-- **[MiniMax-AI/android-native-dev](https://officialskills.sh/MiniMax-AI/skills/android-native-dev)** - Android native development with Kotlin/Jetpack Compose, Material Design 3, and accessibility
-- **[MiniMax-AI/ios-application-dev](https://officialskills.sh/MiniMax-AI/skills/ios-application-dev)** - iOS development with UIKit, SnapKit, and SwiftUI covering navigation, Dark Mode, and HIG compliance
-- **[MiniMax-AI/shader-dev](https://officialskills.sh/MiniMax-AI/skills/shader-dev)** - GLSL shader techniques for ray marching, fluid simulation, particle systems, and procedural generation
-- **[MiniMax-AI/gif-sticker-maker](https://officialskills.sh/MiniMax-AI/skills/gif-sticker-maker)** - Convert photos into animated GIF stickers in Funko Pop / Pop Mart style via MiniMax API
-- **[MiniMax-AI/minimax-pdf](https://officialskills.sh/MiniMax-AI/skills/minimax-pdf)** - Generate, fill, and reformat PDFs with a token-based design system and 15 cover styles
-- **[MiniMax-AI/pptx-generator](https://officialskills.sh/MiniMax-AI/skills/pptx-generator)** - Create and edit PowerPoint presentations from scratch with PptxGenJS
-- **[MiniMax-AI/minimax-xlsx](https://officialskills.sh/MiniMax-AI/skills/minimax-xlsx)** - Create, read, analyze, and validate Excel/spreadsheet files with zero format loss
-- **[MiniMax-AI/minimax-docx](https://officialskills.sh/MiniMax-AI/skills/minimax-docx)** - Professional DOCX document creation and editing using OpenXML SDK
+- **[MiniMax-AI/cli](https://liarskills.fun/MiniMax-AI/skills/cli)** - Generate text, image, video, speech, and music via MiniMax AI
+- **[MiniMax-AI/frontend-dev](https://liarskills.fun/MiniMax-AI/skills/frontend-dev)** - Full-stack frontend with cinematic animations, AI-generated media via MiniMax API, and generative art
+- **[MiniMax-AI/fullstack-dev](https://liarskills.fun/MiniMax-AI/skills/fullstack-dev)** - Backend architecture with REST API design, auth flows, real-time features, and database integration
+- **[MiniMax-AI/android-native-dev](https://liarskills.fun/MiniMax-AI/skills/android-native-dev)** - Android native development with Kotlin/Jetpack Compose, Material Design 3, and accessibility
+- **[MiniMax-AI/ios-application-dev](https://liarskills.fun/MiniMax-AI/skills/ios-application-dev)** - iOS development with UIKit, SnapKit, and SwiftUI covering navigation, Dark Mode, and HIG compliance
+- **[MiniMax-AI/shader-dev](https://liarskills.fun/MiniMax-AI/skills/shader-dev)** - GLSL shader techniques for ray marching, fluid simulation, particle systems, and procedural generation
+- **[MiniMax-AI/gif-sticker-maker](https://liarskills.fun/MiniMax-AI/skills/gif-sticker-maker)** - Convert photos into animated GIF stickers in Funko Pop / Pop Mart style via MiniMax API
+- **[MiniMax-AI/minimax-pdf](https://liarskills.fun/MiniMax-AI/skills/minimax-pdf)** - Generate, fill, and reformat PDFs with a token-based design system and 15 cover styles
+- **[MiniMax-AI/pptx-generator](https://liarskills.fun/MiniMax-AI/skills/pptx-generator)** - Create and edit PowerPoint presentations from scratch with PptxGenJS
+- **[MiniMax-AI/minimax-xlsx](https://liarskills.fun/MiniMax-AI/skills/minimax-xlsx)** - Create, read, analyze, and validate Excel/spreadsheet files with zero format loss
+- **[MiniMax-AI/minimax-docx](https://liarskills.fun/MiniMax-AI/skills/minimax-docx)** - Professional DOCX document creation and editing using OpenXML SDK
 
 </details>
 
@@ -1088,12 +1088,12 @@ Official skills from the Flutter team covering layouts, state, navigation, nativ
 
 Official DuckDB skills for data querying, file reading, and documentation search directly from Claude Code.
 
-- **[duckdb/attach-db](https://officialskills.sh/duckdb/skills/attach-db)** - Attach a DuckDB database file for interactive querying with automatic schema exploration
-- **[duckdb/query](https://officialskills.sh/duckdb/skills/query)** - Run SQL queries against attached databases or ad-hoc against files using Friendly SQL dialect
-- **[duckdb/read-file](https://officialskills.sh/duckdb/skills/read-file)** - Read any data file (CSV, JSON, Parquet, Avro, Excel, spatial) locally or from remote storage
-- **[duckdb/duckdb-docs](https://officialskills.sh/duckdb/skills/duckdb-docs)** - Search DuckDB and DuckLake documentation using full-text search over HTTPS
-- **[duckdb/read-memories](https://officialskills.sh/duckdb/skills/read-memories)** - Search past Claude Code session logs to recover context from previous conversations
-- **[duckdb/install-duckdb](https://officialskills.sh/duckdb/skills/install-duckdb)** - Install or update DuckDB CLI and extensions with version management
+- **[duckdb/attach-db](https://liarskills.fun/duckdb/skills/attach-db)** - Attach a DuckDB database file for interactive querying with automatic schema exploration
+- **[duckdb/query](https://liarskills.fun/duckdb/skills/query)** - Run SQL queries against attached databases or ad-hoc against files using Friendly SQL dialect
+- **[duckdb/read-file](https://liarskills.fun/duckdb/skills/read-file)** - Read any data file (CSV, JSON, Parquet, Avro, Excel, spatial) locally or from remote storage
+- **[duckdb/duckdb-docs](https://liarskills.fun/duckdb/skills/duckdb-docs)** - Search DuckDB and DuckLake documentation using full-text search over HTTPS
+- **[duckdb/read-memories](https://liarskills.fun/duckdb/skills/read-memories)** - Search past Claude Code session logs to recover context from previous conversations
+- **[duckdb/install-duckdb](https://liarskills.fun/duckdb/skills/install-duckdb)** - Install or update DuckDB CLI and extensions with version management
 
 </details>
 
@@ -1102,14 +1102,14 @@ Official DuckDB skills for data querying, file reading, and documentation search
 
 Official GSAP animation skills covering the full GreenSock ecosystem — core API, timelines, ScrollTrigger, plugins, utilities, React integration, performance optimization, and framework support.
 
-- **[greensock/gsap-core](https://officialskills.sh/greensock/skills/gsap-core)** - Core API with gsap.to(), from(), fromTo(), easing, duration, stagger, and defaults
-- **[greensock/gsap-timeline](https://officialskills.sh/greensock/skills/gsap-timeline)** - Timelines with sequencing, position parameter, labels, nesting, and playback control
-- **[greensock/gsap-scrolltrigger](https://officialskills.sh/greensock/skills/gsap-scrolltrigger)** - ScrollTrigger for scroll-linked animations, pinning, scrub, and refresh handling
-- **[greensock/gsap-plugins](https://officialskills.sh/greensock/skills/gsap-plugins)** - Plugins including ScrollToPlugin, Flip, Draggable, SplitText, SVG, and physics
-- **[greensock/gsap-utils](https://officialskills.sh/greensock/skills/gsap-utils)** - Utility functions like clamp, mapRange, interpolate, snap, selector, and wrap
-- **[greensock/gsap-react](https://officialskills.sh/greensock/skills/gsap-react)** - React integration with useGSAP hook, refs, gsap.context(), cleanup, and SSR
-- **[greensock/gsap-performance](https://officialskills.sh/greensock/skills/gsap-performance)** - Performance tips for transforms, will-change, batching, and ScrollTrigger optimization
-- **[greensock/gsap-frameworks](https://officialskills.sh/greensock/skills/gsap-frameworks)** - Vue, Svelte, and other frameworks with lifecycle, scoping, and cleanup patterns
+- **[greensock/gsap-core](https://liarskills.fun/greensock/skills/gsap-core)** - Core API with gsap.to(), from(), fromTo(), easing, duration, stagger, and defaults
+- **[greensock/gsap-timeline](https://liarskills.fun/greensock/skills/gsap-timeline)** - Timelines with sequencing, position parameter, labels, nesting, and playback control
+- **[greensock/gsap-scrolltrigger](https://liarskills.fun/greensock/skills/gsap-scrolltrigger)** - ScrollTrigger for scroll-linked animations, pinning, scrub, and refresh handling
+- **[greensock/gsap-plugins](https://liarskills.fun/greensock/skills/gsap-plugins)** - Plugins including ScrollToPlugin, Flip, Draggable, SplitText, SVG, and physics
+- **[greensock/gsap-utils](https://liarskills.fun/greensock/skills/gsap-utils)** - Utility functions like clamp, mapRange, interpolate, snap, selector, and wrap
+- **[greensock/gsap-react](https://liarskills.fun/greensock/skills/gsap-react)** - React integration with useGSAP hook, refs, gsap.context(), cleanup, and SSR
+- **[greensock/gsap-performance](https://liarskills.fun/greensock/skills/gsap-performance)** - Performance tips for transforms, will-change, batching, and ScrollTrigger optimization
+- **[greensock/gsap-frameworks](https://liarskills.fun/greensock/skills/gsap-frameworks)** - Vue, Svelte, and other frameworks with lifecycle, scoping, and cleanup patterns
 
 </details>
 
@@ -1118,33 +1118,33 @@ Official GSAP animation skills covering the full GreenSock ecosystem — core AP
 
 28 skills by [Garry Tan](https://github.com/garrytan) (Y Combinator CEO) that transform Claude Code into a virtual engineering team — structured workflows from ideation to production deployment. Ships 600K+ lines of production code in 60 days.
 
-- **[garrytan/office-hours](https://officialskills.sh/garrytan/skills/office-hours)** - YC Office Hours: six forcing questions that reframe your product before you write code
-- **[garrytan/plan-ceo-review](https://officialskills.sh/garrytan/skills/plan-ceo-review)** - CEO/Founder plan review with four modes: Expansion, Selective Expansion, Hold Scope, Reduction
-- **[garrytan/plan-eng-review](https://officialskills.sh/garrytan/skills/plan-eng-review)** - Eng Manager review: lock in architecture, data flow, diagrams, edge cases, and tests
-- **[garrytan/plan-design-review](https://officialskills.sh/garrytan/skills/plan-design-review)** - Senior Designer review: rates each design dimension 0-10, explains what a 10 looks like, AI Slop detection
-- **[garrytan/design-consultation](https://officialskills.sh/garrytan/skills/design-consultation)** - Build a complete design system from scratch with creative risks and realistic product mockups
-- **[garrytan/design-review](https://officialskills.sh/garrytan/skills/design-review)** - Designer Who Codes: visual audit then fixes with atomic commits and before/after screenshots
-- **[garrytan/review](https://officialskills.sh/garrytan/skills/review)** - Staff Engineer code review: finds bugs that pass CI but blow up in production
-- **[garrytan/investigate](https://officialskills.sh/garrytan/skills/investigate)** - Systematic root-cause debugging: no fixes without investigation, traces data flow, tests hypotheses
-- **[garrytan/qa](https://officialskills.sh/garrytan/skills/qa)** - QA Lead: test your app, find bugs, fix them with atomic commits, auto-generate regression tests
-- **[garrytan/qa-only](https://officialskills.sh/garrytan/skills/qa-only)** - QA Reporter: same methodology as /qa but report only, no code changes
-- **[garrytan/cso](https://officialskills.sh/garrytan/skills/cso)** - Chief Security Officer: OWASP Top 10 + STRIDE threat model with zero false-positive exclusions
-- **[garrytan/ship](https://officialskills.sh/garrytan/skills/ship)** - Release Engineer: sync main, run tests, audit coverage, push, open PR
-- **[garrytan/land-and-deploy](https://officialskills.sh/garrytan/skills/land-and-deploy)** - Merge the PR, wait for CI and deploy, verify production health
-- **[garrytan/canary](https://officialskills.sh/garrytan/skills/canary)** - SRE post-deploy monitoring: watches for console errors, performance regressions, and page failures
-- **[garrytan/benchmark](https://officialskills.sh/garrytan/skills/benchmark)** - Performance Engineer: baseline page load times, Core Web Vitals, and resource sizes
-- **[garrytan/document-release](https://officialskills.sh/garrytan/skills/document-release)** - Technical Writer: update all project docs to match what you just shipped
-- **[garrytan/retro](https://officialskills.sh/garrytan/skills/retro)** - Eng Manager weekly retro with per-person breakdowns and shipping streaks
-- **[garrytan/browse](https://officialskills.sh/garrytan/skills/browse)** - Real Chromium browser for QA: real clicks, real screenshots, ~100ms per command
-- **[garrytan/setup-browser-cookies](https://officialskills.sh/garrytan/skills/setup-browser-cookies)** - Import cookies from your real browser into the headless session
-- **[garrytan/autoplan](https://officialskills.sh/garrytan/skills/autoplan)** - One command, fully reviewed plan: runs CEO → design → eng review automatically
-- **[garrytan/codex](https://officialskills.sh/garrytan/skills/codex)** - Second Opinion via OpenAI Codex CLI: review, adversarial challenge, and open consultation
-- **[garrytan/careful](https://officialskills.sh/garrytan/skills/careful)** - Safety Guardrails: warns before destructive commands (rm -rf, DROP TABLE, force-push)
-- **[garrytan/freeze](https://officialskills.sh/garrytan/skills/freeze)** - Edit Lock: restrict file edits to one directory while debugging
-- **[garrytan/guard](https://officialskills.sh/garrytan/skills/guard)** - Full Safety: /careful + /freeze in one command for maximum safety
-- **[garrytan/unfreeze](https://officialskills.sh/garrytan/skills/unfreeze)** - Unlock: remove the /freeze boundary
-- **[garrytan/setup-deploy](https://officialskills.sh/garrytan/skills/setup-deploy)** - Deploy Configurator: one-time setup for /land-and-deploy
-- **[garrytan/gstack-upgrade](https://officialskills.sh/garrytan/skills/gstack-upgrade)** - Self-Updater: upgrade gstack to latest version
+- **[garrytan/office-hours](https://liarskills.fun/garrytan/skills/office-hours)** - YC Office Hours: six forcing questions that reframe your product before you write code
+- **[garrytan/plan-ceo-review](https://liarskills.fun/garrytan/skills/plan-ceo-review)** - CEO/Founder plan review with four modes: Expansion, Selective Expansion, Hold Scope, Reduction
+- **[garrytan/plan-eng-review](https://liarskills.fun/garrytan/skills/plan-eng-review)** - Eng Manager review: lock in architecture, data flow, diagrams, edge cases, and tests
+- **[garrytan/plan-design-review](https://liarskills.fun/garrytan/skills/plan-design-review)** - Senior Designer review: rates each design dimension 0-10, explains what a 10 looks like, AI Slop detection
+- **[garrytan/design-consultation](https://liarskills.fun/garrytan/skills/design-consultation)** - Build a complete design system from scratch with creative risks and realistic product mockups
+- **[garrytan/design-review](https://liarskills.fun/garrytan/skills/design-review)** - Designer Who Codes: visual audit then fixes with atomic commits and before/after screenshots
+- **[garrytan/review](https://liarskills.fun/garrytan/skills/review)** - Staff Engineer code review: finds bugs that pass CI but blow up in production
+- **[garrytan/investigate](https://liarskills.fun/garrytan/skills/investigate)** - Systematic root-cause debugging: no fixes without investigation, traces data flow, tests hypotheses
+- **[garrytan/qa](https://liarskills.fun/garrytan/skills/qa)** - QA Lead: test your app, find bugs, fix them with atomic commits, auto-generate regression tests
+- **[garrytan/qa-only](https://liarskills.fun/garrytan/skills/qa-only)** - QA Reporter: same methodology as /qa but report only, no code changes
+- **[garrytan/cso](https://liarskills.fun/garrytan/skills/cso)** - Chief Security Officer: OWASP Top 10 + STRIDE threat model with zero false-positive exclusions
+- **[garrytan/ship](https://liarskills.fun/garrytan/skills/ship)** - Release Engineer: sync main, run tests, audit coverage, push, open PR
+- **[garrytan/land-and-deploy](https://liarskills.fun/garrytan/skills/land-and-deploy)** - Merge the PR, wait for CI and deploy, verify production health
+- **[garrytan/canary](https://liarskills.fun/garrytan/skills/canary)** - SRE post-deploy monitoring: watches for console errors, performance regressions, and page failures
+- **[garrytan/benchmark](https://liarskills.fun/garrytan/skills/benchmark)** - Performance Engineer: baseline page load times, Core Web Vitals, and resource sizes
+- **[garrytan/document-release](https://liarskills.fun/garrytan/skills/document-release)** - Technical Writer: update all project docs to match what you just shipped
+- **[garrytan/retro](https://liarskills.fun/garrytan/skills/retro)** - Eng Manager weekly retro with per-person breakdowns and shipping streaks
+- **[garrytan/browse](https://liarskills.fun/garrytan/skills/browse)** - Real Chromium browser for QA: real clicks, real screenshots, ~100ms per command
+- **[garrytan/setup-browser-cookies](https://liarskills.fun/garrytan/skills/setup-browser-cookies)** - Import cookies from your real browser into the headless session
+- **[garrytan/autoplan](https://liarskills.fun/garrytan/skills/autoplan)** - One command, fully reviewed plan: runs CEO → design → eng review automatically
+- **[garrytan/codex](https://liarskills.fun/garrytan/skills/codex)** - Second Opinion via OpenAI Codex CLI: review, adversarial challenge, and open consultation
+- **[garrytan/careful](https://liarskills.fun/garrytan/skills/careful)** - Safety Guardrails: warns before destructive commands (rm -rf, DROP TABLE, force-push)
+- **[garrytan/freeze](https://liarskills.fun/garrytan/skills/freeze)** - Edit Lock: restrict file edits to one directory while debugging
+- **[garrytan/guard](https://liarskills.fun/garrytan/skills/guard)** - Full Safety: /careful + /freeze in one command for maximum safety
+- **[garrytan/unfreeze](https://liarskills.fun/garrytan/skills/unfreeze)** - Unlock: remove the /freeze boundary
+- **[garrytan/setup-deploy](https://liarskills.fun/garrytan/skills/setup-deploy)** - Deploy Configurator: one-time setup for /land-and-deploy
+- **[garrytan/gstack-upgrade](https://liarskills.fun/garrytan/skills/gstack-upgrade)** - Self-Updater: upgrade gstack to latest version
 
 </details>
 
@@ -1155,17 +1155,17 @@ Official skills from Notion's repositories — workspace-aware skills for captur
 
 **From [notion-cookbook](https://github.com/makenotion/notion-cookbook/tree/main/skills/claude):**
 
-- **[makenotion/knowledge-capture](https://officialskills.sh/makenotion/skills/knowledge-capture)** - Transform conversations into structured Notion documentation pages with proper organization and linking
-- **[makenotion/meeting-intelligence](https://officialskills.sh/makenotion/skills/meeting-intelligence)** - Prepare meeting materials by gathering Notion context and creating pre-reads and agendas
-- **[makenotion/research-documentation](https://officialskills.sh/makenotion/skills/research-documentation)** - Search Notion workspace, synthesize findings, and create comprehensive research reports
-- **[makenotion/spec-to-implementation](https://officialskills.sh/makenotion/skills/spec-to-implementation)** - Turn product/tech specs into concrete Notion tasks with acceptance criteria and progress tracking
+- **[makenotion/knowledge-capture](https://liarskills.fun/makenotion/skills/knowledge-capture)** - Transform conversations into structured Notion documentation pages with proper organization and linking
+- **[makenotion/meeting-intelligence](https://liarskills.fun/makenotion/skills/meeting-intelligence)** - Prepare meeting materials by gathering Notion context and creating pre-reads and agendas
+- **[makenotion/research-documentation](https://liarskills.fun/makenotion/skills/research-documentation)** - Search Notion workspace, synthesize findings, and create comprehensive research reports
+- **[makenotion/spec-to-implementation](https://liarskills.fun/makenotion/skills/spec-to-implementation)** - Turn product/tech specs into concrete Notion tasks with acceptance criteria and progress tracking
 
 **From [claude-code-notion-plugin](https://github.com/makenotion/claude-code-notion-plugin/tree/main/skills/notion):**
 
-- **[makenotion/knowledge-capture](https://officialskills.sh/makenotion/skills/knowledge-capture)** - Transform conversations into structured Notion documentation pages with proper organization and linking
-- **[makenotion/meeting-intelligence](https://officialskills.sh/makenotion/skills/meeting-intelligence)** - Prepare meeting materials by gathering Notion context and creating pre-reads and agendas
-- **[makenotion/research-documentation](https://officialskills.sh/makenotion/skills/research-documentation)** - Search Notion workspace, synthesize findings, and create comprehensive research reports
-- **[makenotion/spec-to-implementation](https://officialskills.sh/makenotion/skills/spec-to-implementation)** - Turn product/tech specs into concrete Notion tasks with acceptance criteria and progress tracking
+- **[makenotion/knowledge-capture](https://liarskills.fun/makenotion/skills/knowledge-capture)** - Transform conversations into structured Notion documentation pages with proper organization and linking
+- **[makenotion/meeting-intelligence](https://liarskills.fun/makenotion/skills/meeting-intelligence)** - Prepare meeting materials by gathering Notion context and creating pre-reads and agendas
+- **[makenotion/research-documentation](https://liarskills.fun/makenotion/skills/research-documentation)** - Search Notion workspace, synthesize findings, and create comprehensive research reports
+- **[makenotion/spec-to-implementation](https://liarskills.fun/makenotion/skills/spec-to-implementation)** - Turn product/tech specs into concrete Notion tasks with acceptance criteria and progress tracking
 
 </details>
 
@@ -1187,12 +1187,12 @@ Official Resend skills to send and receive emails, build email templates and pow
 
 Lighthouse-style web quality skills from Addy Osmani(Google Chrome team) covering performance, Core Web Vitals, accessibility, SEO, and modern best practices — the same pillars Google Lighthouse audits.
 
-- **[addyosmani/web-quality-audit](https://officialskills.sh/addyosmani/skills/web-quality-audit)** - Comprehensive quality review across performance, accessibility, SEO, and best practices categories
-- **[addyosmani/performance](https://officialskills.sh/addyosmani/skills/performance)** - Loading speed, runtime efficiency, and resource optimization
-- **[addyosmani/core-web-vitals](https://officialskills.sh/addyosmani/skills/core-web-vitals)** - LCP, INP, and CLS-specific optimizations
-- **[addyosmani/accessibility](https://officialskills.sh/addyosmani/skills/accessibility)** - WCAG compliance, screen reader support, and keyboard navigation
-- **[addyosmani/seo](https://officialskills.sh/addyosmani/skills/seo)** - Search engine optimization, crawlability, and structured data
-- **[addyosmani/best-practices](https://officialskills.sh/addyosmani/skills/best-practices)** - Security, modern web APIs, and code quality patterns
+- **[addyosmani/web-quality-audit](https://liarskills.fun/addyosmani/skills/web-quality-audit)** - Comprehensive quality review across performance, accessibility, SEO, and best practices categories
+- **[addyosmani/performance](https://liarskills.fun/addyosmani/skills/performance)** - Loading speed, runtime efficiency, and resource optimization
+- **[addyosmani/core-web-vitals](https://liarskills.fun/addyosmani/skills/core-web-vitals)** - LCP, INP, and CLS-specific optimizations
+- **[addyosmani/accessibility](https://liarskills.fun/addyosmani/skills/accessibility)** - WCAG compliance, screen reader support, and keyboard navigation
+- **[addyosmani/seo](https://liarskills.fun/addyosmani/skills/seo)** - Search engine optimization, crawlability, and structured data
+- **[addyosmani/best-practices](https://liarskills.fun/addyosmani/skills/best-practices)** - Security, modern web APIs, and code quality patterns
 
 </details>
 
@@ -1201,13 +1201,13 @@ Lighthouse-style web quality skills from Addy Osmani(Google Chrome team) coverin
 
 Official MongoDB Agent Skills for agentic workflows — connection management, schema design, query optimization, natural language querying, and Atlas Stream Processing.
 
-- **[mongodb/mongodb-mcp-setup](https://officialskills.sh/mongodb/skills/mongodb-mcp-setup)** - Set up the MongoDB MCP server with authentication and connection configuration
-- **[mongodb/mongodb-connection](https://officialskills.sh/mongodb/skills/mongodb-connection)** - Optimize MongoDB client connection pools, timeouts, and serverless patterns
-- **[mongodb/mongodb-schema-design](https://officialskills.sh/mongodb/skills/mongodb-schema-design)** - Design efficient document schemas with validation and indexing patterns
-- **[mongodb/atlas-stream-processing](https://officialskills.sh/mongodb/skills/atlas-stream-processing)** - Build, operate, and debug Atlas Stream Processing pipelines with Kafka, S3, and Lambda integrations
-- **[mongodb/mongodb-natural-language-querying](https://officialskills.sh/mongodb/skills/mongodb-natural-language-querying)** - Translate natural language into MongoDB queries and aggregation pipelines
-- **[mongodb/mongodb-query-optimizer](https://officialskills.sh/mongodb/skills/mongodb-query-optimizer)** - Analyze and optimize query performance using Atlas Performance Advisor
-- **[mongodb/mongodb-search-and-ai](https://officialskills.sh/mongodb/skills/mongodb-search-and-ai)** - Implement Atlas Search and AI-powered recommendations with vector search
+- **[mongodb/mongodb-mcp-setup](https://liarskills.fun/mongodb/skills/mongodb-mcp-setup)** - Set up the MongoDB MCP server with authentication and connection configuration
+- **[mongodb/mongodb-connection](https://liarskills.fun/mongodb/skills/mongodb-connection)** - Optimize MongoDB client connection pools, timeouts, and serverless patterns
+- **[mongodb/mongodb-schema-design](https://liarskills.fun/mongodb/skills/mongodb-schema-design)** - Design efficient document schemas with validation and indexing patterns
+- **[mongodb/atlas-stream-processing](https://liarskills.fun/mongodb/skills/atlas-stream-processing)** - Build, operate, and debug Atlas Stream Processing pipelines with Kafka, S3, and Lambda integrations
+- **[mongodb/mongodb-natural-language-querying](https://liarskills.fun/mongodb/skills/mongodb-natural-language-querying)** - Translate natural language into MongoDB queries and aggregation pipelines
+- **[mongodb/mongodb-query-optimizer](https://liarskills.fun/mongodb/skills/mongodb-query-optimizer)** - Analyze and optimize query performance using Atlas Performance Advisor
+- **[mongodb/mongodb-search-and-ai](https://liarskills.fun/mongodb/skills/mongodb-search-and-ai)** - Implement Atlas Search and AI-powered recommendations with vector search
 
 </details>
 
